@@ -23,7 +23,9 @@
   description: |
     Bomi是一个开源软件，基于MPV播放器开发，为MPV播放器增强了图形化界面。适合对原生MPV配置文件与全快捷键操作头疼的用户
     An open source player based on mpv with GUI enhanced & neat
-  warning: "###### ⚠NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug\n"
+  warning: 'NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug
+
+'
 - name: EMDB
   homepage: http://www.emdb.eu/
   icon:
@@ -130,7 +132,7 @@
   description: |
     多媒体播放器，解码器众多，配置能力强
     Multimedia player with a wide collection of codecs which also offers extensive configuration options for users.
-  warning: "###### ⚠[FFmpeg PUBLIC LICENSE VIOLATED   违反 FFmpeg 公共许可证](https://github.com/FFmpeg/web/blob/master/src/shame#L63)\n"
+  warning: "[FFmpeg PUBLIC LICENSE VIOLATED   违反 FFmpeg 公共许可证](https://github.com/FFmpeg/web/blob/master/src/shame#L63)\n"
 - name: Shotcut
   icon:
   - free

@@ -88,7 +88,9 @@
   description: |
     病毒防护软件，PUA 防护表现惊艳
     A malware fighter performing amazingly on PUA protection.
-  warning: "###### ⚠Homepage lockup allowed to be canceled by preferences itself   可通过自身设置取消的主页绑定\n"
+  warning: 'Homepage lockup allowed to be canceled by preferences itself   可通过自身设置取消的主页绑定
+
+'
 - name: Kaspersky Free
   homepage: https://www.kaspersky.com.cn/downloads#tools
   icon:

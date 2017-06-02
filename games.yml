@@ -11,7 +11,9 @@
   description: |
     通过简单脚本修改破译本地游戏
     Hack local games by simple scripts
-  warning: "###### ⚠️DOWNLOAD ANOTHER HARMLESS APP AS DEFAULT   默认下载其它无害应用\n"
+  warning: '️DOWNLOAD ANOTHER HARMLESS APP AS DEFAULT   默认下载其它无害应用
+
+'
 - name: JoyToKey
   icon:
   - free

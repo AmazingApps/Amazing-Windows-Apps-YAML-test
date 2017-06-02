@@ -47,7 +47,9 @@
   description: |
     屏幕录制并保存为 GIF
     Animated screen captures and save them directly to .GIF
-  warning: "###### ⚠NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug\n"
+  warning: 'NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug
+
+'
 - name: MyChrome
   icon:
   - free
@@ -166,7 +168,9 @@
   description: |
     ~~打字时防止因触摸板造成的光标跳动~~
     ~~Software to prevent cursor from jumping when you are typing on notebook keyboard.~~
-  warning: "###### ⚠NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug\n"
+  warning: 'NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug
+
+'
 - name: ZoomIt
   homepage: https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx
   icon:
@@ -176,4 +180,6 @@
   description: |
     屏幕局部放大
     Zoom in on an area of the screen, move around while zoomed, and draw on the zoomed image.
-  warning: "###### ⚠NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug\n"
+  warning: 'NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug
+
+'

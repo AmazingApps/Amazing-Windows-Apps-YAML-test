@@ -93,5 +93,6 @@
   description: |
     修改 Windows 10 登录背景
     Changes the Windows 10 login screen background.
-  warning: "###### ⚠DESIGNED FOR SPECIFIC VERSIONS OF WINDOWS 10 ONLY   仅针对 Windows
-    10 设计\n"
+  warning: 'DESIGNED FOR SPECIFIC VERSIONS OF WINDOWS 10 ONLY   仅针对 Windows 10 设计
+
+'

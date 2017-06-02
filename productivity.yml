@@ -42,7 +42,9 @@
   description: |
     类 BASIC 脚本语言，用于 Windows GUI 的自动化以及编写通用脚本
     BASIC-like scripting language designed for automating the Windows GUI and general scripting.
-  warning: "###### ⚠NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug\n"
+  warning: 'NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug
+
+'
 - name: Cortana
   icon:
   - full_i18n
