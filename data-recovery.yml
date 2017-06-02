@@ -3,8 +3,7 @@
   homepage: http://www.eassos.com/
   icon:
   - free
-  i18n:
-  - all
+  - full_i18n
   description: |
     可恢复磁盘分区的数据恢复工具
     Data recovery with partition recovery
@@ -12,17 +11,15 @@
     * This app is called [DiskGenius](http://www.diskgenius.cn/download.php) in China
 - name: Ontrach EasyRecovery
   homepage: http://www.krollontrack.com/data-recovery/recovery-software/
-  icon: []
-  i18n:
-  - all
+  icon:
+  - full_i18n
   description: |
     大批量数据恢复
     Has filtering tools to help sort the large amount of data the software can recover.
 - name: Recuva
   icon:
   - free
-  i18n:
-  - all
+  - full_i18n
   homepage: https://www.piriform.com/recuva
   download: https://www.piriform.com/recuva/download
   description: |
@@ -32,8 +29,7 @@
   homepage: http://www.stellarinfo.com/windows-data-recovery.php
   icon:
   - free
-  i18n:
-  - all
+  - full_i18n
   description: |
     通过网络远程恢复数据
     Remote recovery option to recover data from another computer over a network.
@@ -41,12 +37,11 @@
   icon:
   - free
   - portable
+  - full_i18n
   open_source:
     license: GPL v2+
     host: cgsecurity.org
     url: http://www.cgsecurity.org/wiki/TestDisk_Download
-  i18n:
-  - all
   homepage: http://www.cgsecurity.org/wiki/TestDisk
   download: http://www.cgsecurity.org/wiki/TestDisk_Download
   description: |

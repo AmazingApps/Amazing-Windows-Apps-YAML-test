@@ -1,9 +1,8 @@
 ---
 - name: Adobe Master Collection Series
   homepage: https://www.adobe.com/creativecloud.html
-  icon: []
-  i18n:
-  - all
+  icon:
+  - full_i18n
   description: |
     无需过多赘述，绝大多数人应当清楚这一系列工具在设计中的强大作用：
     There isn't too much to introduce this. I belive most of us have known how powerful it can be in designing:
@@ -12,12 +11,11 @@
   homepage: https://github.com/TevinLi/amWiki
   icon:
   - free
+  - en_US
   open_source:
     license: MIT
     host: GitHub
     url: https://github.com/TevinLi/amWiki
-  i18n:
-  - en_US
   description: |
     基于 JavaScript、依赖于 Atom 编辑器、应用 MarkDown 标记的 wiki 文档系统
     amWiki is a wiki doc system based on JavaScript, relying on Atom editor and applied with MarkDown tags.
@@ -26,12 +24,11 @@
   icon:
   - free
   - portable
+  - full_i18n
   open_source:
     license: GPL 2.0
     host: GitHub
     url: https://github.com/Lexikos/AutoHotkey_L
-  i18n:
-  - all
   description: |
     开源 Windows 脚本语言，用户可以轻松创建各种脚本完成各种任务
     Open-source scripting language for Windows that allows users to easily create small to complex scripts for all kinds of tasks.
@@ -39,7 +36,6 @@
   icon:
   - free
   - portable
-  i18n:
   - en_US
   homepage: https://www.autoitscript.com/site/autoit/
   download: https://www.autoitscript.com/site/autoit/downloads/
@@ -49,9 +45,8 @@
   warning: "###### ⚠NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug\n"
 - name: Cortana
   icon:
+  - full_i18n
   - cross_platform
-  i18n:
-  - all
   description: |
     微软开发的 Windows 10 内置个人助理
     Windows 10 built-in personal assistant by Microsoft.
@@ -59,7 +54,6 @@
   homepage: http://www.hellofont.cn/index.php
   icon:
   - free
-  i18n:
   - zh_CN
   description: |
     一站式字体管理、预览、备份与范例展示
@@ -67,13 +61,12 @@
 - name: LibreOffice
   icon:
   - free
+  - full_i18n
   - cross_platform
   open_source:
     license: MPL 2.0
     host: libreoffice.org
     url: https://www.libreoffice.org/about-us/source-code/
-  i18n:
-  - all
   homepage: https://www.libreoffice.org/
   download: https://www.libreoffice.org/download/download/
   description: |
@@ -84,12 +77,11 @@
   icon:
   - free
   - portable
+  - full_i18n
   open_source:
     license: MIT
     host: GitHUb
     url: https://github.com/mike-schultz/materialette
-  i18n:
-  - all
   description: |
     material 设计的调色板
     A material design color palette.
@@ -97,21 +89,19 @@
   homepage: http://matterwiki.com/
   icon:
   - free
+  - full_i18n
   open_source:
     license: MIT
     host: GitHub
     url: https://github.com/Matterwiki/Matterwiki
-  i18n:
-  - all
   description: |
     简单优雅的团队 wiki
     A simple and beautiful wiki for teams.
 - name: Medibang Paint
   icon:
   - free
+  - full_i18n
   - cross_platform
-  i18n:
-  - all
   homepage: https://medibangpaint.com/en/
   download: https://medibangpaint.com/en/app-download/
   description: |
@@ -120,9 +110,8 @@
 - name: Microsoft Office
   homepage: http://www.office.com
   icon:
+  - full_i18n
   - cross_platform
-  i18n:
-  - all
   description: |
     微软开发的生产力套装，包含：
     Microsoft's own productivity suite:
@@ -131,13 +120,12 @@
   icon:
   - free
   - portable
+  - full_i18n
   - cross_platform
   open_source:
     license: EPL 1.0/LGPL 3.0
     host: GitHub
     url: https://github.com/xmindltd/xmind
-  i18n:
-  - all
   homepage: http://www.xmind.net/
   download: http://www.xmind.net/download/win/
   description: |
@@ -147,13 +135,12 @@
   icon:
   - free
   - portable
+  - full_i18n
   - cross_platform
   open_source:
     license: GPL 2.0
     host: GitHub
     url: https://github.com/jaap-karssenberg/zim-desktop-wiki/
-  i18n:
-  - all
   homepage: http://zim-wiki.org/index.html
   download: http://zim-wiki.org/downloads.html
   description: |

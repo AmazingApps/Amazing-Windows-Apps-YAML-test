@@ -4,9 +4,8 @@
   icon:
   - free
   - portable
+  - full_i18n
   - cross_platform
-  i18n:
-  - all
   description: |
     顺手的远程桌面应用
     A comfortable remote desktop application.
@@ -14,7 +13,6 @@
   homepage: https://www.ipip.net/download.html
   icon:
   - free
-  i18n:
   - zh_CN
   description: |
     从 Windows 中发起 traceroute 请求并可视化展示
@@ -23,13 +21,12 @@
   homepage: https://www.brave.com/
   icon:
   - free
+  - full_i18n
   - cross_platform
   open_source:
     license: MPL 2.0
     host: GitHub
     url: https://github.com/brave
-  i18n:
-  - all
   description: |
     自动拦截广告与追踪器的浏览器
     A browser automatically blocks ads and trackers.
@@ -38,8 +35,7 @@
   icon:
   - free
   - portable
-  i18n:
-  - all
+  - full_i18n
   description: |
     附带的许多特性显著增强了 Chromium 浏览器的体验
     An enhanced version of the Chromium web browser that bundles many useful features.
@@ -47,9 +43,8 @@
   homepage: https://dl.google.com
   icon:
   - free
+  - full_i18n
   - cross_platform
-  i18n:
-  - all
   description: |
     一款适用于计算机、手机和平板电脑的浏览器
     One browser for your computer, phone and tablet
@@ -57,13 +52,12 @@
   icon:
   - free
   - portable
+  - full_i18n
   - cross_platform
   open_source:
     license: BSD & Others
     host: chromium.org
     url: https://www.chromium.org/developers/how-tos/get-the-code
-  i18n:
-  - all
   homepage: https://www.chromium.org/Home
   download: https://www.chromium.org/getting-involved/download-chromium
   description: |
@@ -74,25 +68,23 @@
   icon:
   - free
   - portable
+  - en_US
   open_source:
     license: MIT
     host: GitHub
     url: https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell
-  i18n:
-  - en_US
   description: |
     一个利用 CloudXNS 的 API 实现自己的 DDNS 服务的 PowerShell 脚本
     A PowerShell script to establish own DDNS service on CloudXNS API
 - name: Firefox 火狐
   icon:
   - free
+  - full_i18n
   - cross_platform
   open_source:
     license: MPL
     host: mozilla.org
     url: https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Source_Code/Downloading_Source_Archives
-  i18n:
-  - all
   homepage: https://www.mozilla.org
   download: https://www.mozilla.org/en-US/firefox/all/
   description: |
@@ -101,7 +93,6 @@
 - name: HaloRadio
   icon:
   - free
-  i18n:
   - zh_HK
   - en_US
   - ja_JP
@@ -113,10 +104,9 @@
   icon:
   - free
   - portable
-  - cross_platform
-  i18n:
   - zh_CN
   - en_US
+  - cross_platform
   description: |
     * ###### 此处指国际版，请注意与国内版相区别｜Here the international version is listed instead of that provided in mainland China
     同时内嵌 Trident 与 chromium 的网页浏览器，内置高效密码管理器
@@ -126,16 +116,14 @@
   icon:
   - free
   - portable
+  - full_i18n
   - cross_platform
-  i18n:
-  - all
   description: |
     基于 chromium 的浏览器，内置内容拦截器与快速预读取
     A chromiun-based browser with built-in content blocker and with faster prefetch.
 - name: Proxifier
   icon:
   - portable
-  i18n:
   - en_US
   homepage: http://proxifier.com/
   download: http://proxifier.com/download.htm
@@ -146,13 +134,12 @@
   icon:
   - free
   - portable
+  - full_i18n
   - cross_platform
   open_source:
     license: GPL 3.0
     host: GitHub
     url: https://github.com/QuiteRSS/quiterss
-  i18n:
-  - all
   homepage: https://quiterss.org/
   download: https://quiterss.org/en/download
   description: |
@@ -162,13 +149,12 @@
   icon:
   - free
   - portable
+  - full_i18n
   - cross_platform
   open_source:
     license: GPL 2.0
     host: GitHub
     url: https://github.com/RetroShare/RetroShare
-  i18n:
-  - all
   homepage: http://retroshare.net/
   download: http://retroshare.net/downloads.html
   description: |
@@ -178,9 +164,8 @@
   homepage: http://georgielabs.net/
   icon:
   - free
+  - full_i18n
   - cross_platform
-  i18n:
-  - all
   description: |
     使用无线传输音频，从 PC 到 Android、平板或者其它 PC
     Wirelessly transmit any music or audio from your PC to your Android phone, tablet, or other PCs.
@@ -189,23 +174,21 @@
   icon:
   - free
   - portable
+  - full_i18n
   - cross_platform
-  i18n:
-  - all
   description: |
     远程控制与桌面共享会议工具，也可以共享文件
     A proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers.
 - name: Tor Project
   icon:
   - free
+  - zh_CN
+  - en_US
   - cross_platform
   open_source:
     license: BSD/MIT
     host: torproject.org
     url: https://www.torproject.org/download/download.html.en
-  i18n:
-  - zh_CN
-  - en_US
   homepage: https://www.torproject.org/
   download: https://www.torproject.org/download/download.html.en
   description: |
@@ -215,9 +198,8 @@
   homepage: https://vivaldi.com/
   icon:
   - free
+  - full_i18n
   - cross_platform
-  i18n:
-  - all
   description: |
     同样基于 chromium 的优秀浏览器
     Another chromium-based browser with amazing features.
@@ -226,13 +208,12 @@
   icon:
   - free
   - portable
+  - full_i18n
   - cross_platform
   open_source:
     license: GPL 2.0
     host: GitHub
     url: https://github.com/HelloZeroNet/ZeroNet
-  i18n:
-  - all
   description: |
     开源跨平台的去中心化网络框架
     Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network

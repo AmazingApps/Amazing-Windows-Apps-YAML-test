@@ -3,12 +3,11 @@
   icon:
   - free
   - portable
+  - full_i18n
   open_source:
     license: LGPL 2.0
     host: 7-zip.org
     url: http://7-zip.org/download.html
-  i18n:
-  - all
   homepage: http://7-zip.org/
   download: http://7-zip.org/download.html
   description: |
@@ -19,8 +18,7 @@
   icon:
   - free
   - portable
-  i18n:
-  - all
+  - full_i18n
   description: |
     轻量级快速免费的压缩管理
     A lightweight, fast and free All-In-One Zip Archiver.

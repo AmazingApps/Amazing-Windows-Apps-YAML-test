@@ -3,12 +3,11 @@
   homepage: https://sourceforge.net/projects/akelpad/
   icon:
   - free
+  - full_i18n
   open_source:
     license: BSD
     host: SourceForge
     url: https://sourceforge.net/projects/akelpad/
-  i18n:
-  - all
   description: |
     高度轻量化的高级文本编辑器
     A highly light-weighted advanced text editor
@@ -16,12 +15,11 @@
   icon:
   - free
   - portable
+  - en_US
   open_source:
     license: MIT
     host: GitHub
     url: https://github.com/atom/atom
-  i18n:
-  - en_US
   homepage: https://atom.io/
   download: https://github.com/atom/atom/releases
   description: |
@@ -31,9 +29,8 @@
   icon:
   - free
   - portable
+  - full_i18n
   - cross_platform
-  i18n:
-  - all
   homepage: https://www.emeditor.com
   download: https://www.emeditor.com/download/
   description: |
@@ -43,11 +40,10 @@
   icon:
   - free
   - portable
-  - cross_platform
-  i18n:
   - zh_CN
   - en_US
   - ja_JP
+  - cross_platform
   homepage: http://www.everedit.cn/
   download: http://www.everedit.cn/download
   description: |
@@ -57,7 +53,6 @@
   homepage: https://www.gitbook.com/editor
   icon:
   - free
-  i18n:
   - en_US
   description: |
     GitBook 的 GUI 客户端
@@ -66,13 +61,12 @@
   icon:
   - free
   - portable
+  - en_US
   - cross_platform
   open_source:
     license: GPL-LIKE
     host: fsf.org
     url: https://directory.fsf.org/wiki/GNU
-  i18n:
-  - en_US
   homepage: https://www.gnu.org/software/emacs/
   download: https://www.gnu.org/software/emacs/download.html
   description: |
@@ -82,20 +76,18 @@
   homepage: https://www.inkdrop.info/
   icon:
   - portable
-  i18n:
-  - all
+  - full_i18n
   description: |
     使用 MarkDown 的笔记本应用
     The note-taking app for Markdown lovers.
 - name: Knowte
   icon:
   - free
+  - full_i18n
   open_source:
     license: GPL 3.0
     host: GitHub
     url: https://github.com/digimezzo/Knowte
-  i18n:
-  - all
   homepage: http://www.digimezzo.com/software/knowte-2/
   download: http://www.digimezzo.com/content/software/knowte/
   description: |
@@ -104,13 +96,12 @@
 - name: Leanote 蚂蚁笔记
   icon:
   - free
+  - full_i18n
   - cross_platform
   open_source:
     license: GPL 2.0+
     host: GitHub
     url: https://github.com/leanote
-  i18n:
-  - all
   homepage: https://leanote.com/
   download: http://app.leanote.com/
   description: |
@@ -121,12 +112,11 @@
   icon:
   - free
   - portable
+  - full_i18n
   open_source:
     license: MIT
     host: GitHub
     url: https://github.com/LightTable/LightTable
-  i18n:
-  - all
   description: |
     可定制化的编辑器，实时显示代码反馈与数据流
     A customizable editor with instant feedback and showing data values flow through your code.
@@ -134,13 +124,12 @@
   homepage: http://tylingsoft.com/markdown-plus/
   icon:
   - free
+  - en_US
   - cross_platform
   open_source:
     license: NO LICENSE
     host: GitHub
     url: https://github.com/tylingsoft/markdown-plus
-  i18n:
-  - en_US
   description: |
     Markdown editor that supports universal Markdown, GitHub Markdown, real-time preview, task list highlight, Emoji, Font Awesome, Ionicons, math formula, flow chat, sequence chat, Gantt
     Markdown 编辑器，支持通用 markdown、GitHub markdown 之外，还支持：实时预览代码、高亮任务列表、Emoji 图标、Font Awesome 图标、Ionicons 图标、数学公式、流程图、顺序图、甘特图
@@ -148,12 +137,11 @@
   icon:
   - free
   - portable
+  - full_i18n
   open_source:
     license: GPL 2.0
     host: GitHub
     url: https://github.com/notepad-plus-plus/notepad-plus-plus
-  i18n:
-  - all
   homepage: https://notepad-plus-plus.org/
   download: https://notepad-plus-plus.org/download/v7.3.3.html
   description: |
@@ -164,12 +152,11 @@
   icon:
   - free
   - portable
+  - en_US
   open_source:
     license: BSD 3-clause
     host: GitHub
     url: https://github.com/XhmikosR/notepad2-mod
-  i18n:
-  - en_US
   description: |
     Notepad2的分支之一，可替换系统 notepad 的轻量级开源编辑器，支持语法高亮等功能
     A Notepad2 fork, a fast and light-weight Notepad-like text editor with syntax highlighting
@@ -177,8 +164,7 @@
   icon:
   - free
   - portable
-  i18n:
-  - all
+  - full_i18n
   homepage: http://www.pspad.com/
   download: http://www.pspad.com/en/download.php
   description: |
@@ -188,8 +174,7 @@
   homepage: https://simplenote.com/
   icon:
   - free
-  i18n:
-  - all
+  - full_i18n
   description: |
     简单跨平台云同步笔记应用
     Simple cross-platform note taking app with cloud-based syncing.
@@ -197,7 +182,6 @@
   homepage: http://www.sublimetext.com/3
   icon:
   - portable
-  i18n:
   - en_US
   description: |
     现代 UI 设计的文本编辑器
@@ -206,7 +190,6 @@
   homepage: https://typora.io/
   icon:
   - free
-  i18n:
   - en_US
   description: |
     简洁 MarkDown 阅读编写应用
@@ -216,12 +199,11 @@
   icon:
   - free
   - portable
+  - full_i18n
   open_source:
     license: MIT
     host: GitHub
     url: https://github.com/Microsoft/vscode
-  i18n:
-  - all
   description: |
     微软出品的开源文本编辑器
     Open source text editor from Microsoft

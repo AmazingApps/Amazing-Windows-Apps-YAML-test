@@ -4,9 +4,8 @@
   icon:
   - free
   - portable
+  - full_i18n
   - cross_platform
-  i18n:
-  - all
   description: |
     Windows 与 Android 免费系统资料与监视
     CPU-Z is a freeware system profiling and monitoring application for Microsoft Windows and Android.
@@ -15,8 +14,7 @@
   icon:
   - free
   - portable
-  i18n:
-  - all
+  - full_i18n
   description: |
     HDD/SSD 信息工具，支持部分 USB 连接设备跟 Intel RAID
     A HDD/SSD info utility software which supports a part of USB connection and Intel RAID.
@@ -24,9 +22,8 @@
   homepage: http://stereopsis.com/flux/
   icon:
   - free
-  - cross_platform
-  i18n:
   - en_US
+  - cross_platform
   description: |
     自动调节屏幕色温以匹配环境亮度
     Automatically adjust your computer screen to match lighting.
@@ -34,8 +31,7 @@
   icon:
   - free
   - portable
-  i18n:
-  - all
+  - full_i18n
   homepage: https://www.techpowerup.com/gpuz/
   download: https://www.techpowerup.com/download/techpowerup-gpu-z/#
   description: |
@@ -44,8 +40,7 @@
 - name: Iobit Driver Booster
   icon:
   - free
-  i18n:
-  - all
+  - full_i18n
   homepage: http://www.iobit.com/en/driver-booster.php
   download: http://download.cnet.com/Driver-Booster/3001-18513_4-75992725.html?hasJs=n&part=dl-
   description: |
@@ -56,12 +51,11 @@
   icon:
   - free
   - portable
+  - en_US
   open_source:
     license: MPL 2.0
     host: GitHub
     url: https://github.com/openhardwaremonitor/openhardwaremonitor
-  i18n:
-  - en_US
   homepage: http://openhardwaremonitor.org/
   download: http://openhardwaremonitor.org/downloads/
   description: |
@@ -70,8 +64,7 @@
 - name: Speccy
   icon:
   - free
-  i18n:
-  - all
+  - full_i18n
   homepage: https://www.piriform.com/speccy
   download: https://www.piriform.com/speccy/download/standard
   description: |
@@ -82,7 +75,6 @@
   icon:
   - free
   - portable
-  i18n:
   - en_US
   description: |
     显示固态硬盘及其它硬盘的关联信息
@@ -90,9 +82,8 @@
 - name: "~~护眼宝~~"
   icon:
   - free
-  - cross_platform
-  i18n:
   - zh_CN
+  - cross_platform
   description: |
     ~~为屏幕添加蓝光过滤滤镜~~
     ~~Filter blue rays from your screen.~~

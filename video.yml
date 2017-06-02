@@ -3,9 +3,8 @@
   homepage: https://www.5kplayer.com/
   icon:
   - free
-  - cross_platform
-  i18n:
   - en_US
+  - cross_platform
   description: |
     支持 Airplay、广播电台与一些视频站点下载功能的通用多媒体播放器
     A univeral multi-media player that supports Airplay, online broadcasting and downloading from some video sites
@@ -13,13 +12,12 @@
   icon:
   - free
   - portable
+  - full_i18n
   - cross_platform
   open_source:
     license: GPL 2.0
     host: GitHub
     url: https://github.com/xylosper/bomi
-  i18n:
-  - all
   homepage: https://bomi-player.github.io/index.html
   download: https://bomi-player.github.io/downloads.html
   description: |
@@ -31,8 +29,7 @@
   icon:
   - free
   - portable
-  i18n:
-  - all
+  - full_i18n
   description: |
     电影及电视剧追播进度记录，同时支持光盘与本地媒体文件
     Keep track of your movie and TV Series collection. Both physical discs and media files are fully supported.
@@ -55,12 +52,11 @@
   homepage: http://handbrake.fr/
   icon:
   - free
+  - full_i18n
   open_source:
     license: GPL 2.0
     host: GitHub
     url: https://github.com/HandBrake/HandBrake
-  i18n:
-  - all
   description: |
     UI 优美、性能优秀的视频编码工具
     High performance video encoding and conversion tools with a nice GUI.
@@ -68,12 +64,11 @@
   homepage: https://kodi.tv/
   icon:
   - free
+  - full_i18n
   open_source:
     license: GPL 2.0
     host: GitHub
     url: https://github.com/xbmc/xbmc
-  i18n:
-  - all
   description: |
     免费开源家庭影院软件
     Free and Open Source home theatre software.
@@ -82,25 +77,23 @@
   icon:
   - free
   - portable
+  - full_i18n
   open_source:
     license: GPL 3.0
     host: SourceForge
     url: https://sourceforge.net/projects/mpcbe/
-  i18n:
-  - all
   description: |
     基于 "Media Player Classic"\(MPC，Gabest\) 及 "Media Player Classic Home Cinema" \(MPC-HC，Casimir666\)，包含一些功能增强及 bug 修复
     Based on the original "Media Player Classic" project \(Gabest\) and "Media Player Classic Home Cinema" project \(Casimir666\), contains additional features and bug fixes
 - name: mpv
   icon:
   - free
+  - en_US
   - cross_platform
   open_source:
     license: GPL 2.0
     host: GitHub
     url: https://github.com/mpv-player/mpv
-  i18n:
-  - en_US
   homepage: https://mpv.io/
   download: https://mpv.io/installation/
   description: |
@@ -111,21 +104,19 @@
   icon:
   - free
   - portable
+  - en_US
   open_source:
     license: GPL 2.0
     host: GitHub
     url: https://github.com/jp9000/obs-studio
-  i18n:
-  - en_US
   description: |
     屏幕录制或生成直播媒体流
     Free and open source software for video recording and live streaming.
 - name: Plex
   icon:
   - free
+  - full_i18n
   - cross_platform
-  i18n:
-  - all
   homepage: https://www.plex.tv/
   download: https://www.plex.tv/apps/
   description: |
@@ -134,9 +125,8 @@
 - name: PotPlayer
   icon:
   - free
+  - full_i18n
   - cross_platform
-  i18n:
-  - all
   description: |
     多媒体播放器，解码器众多，配置能力强
     Multimedia player with a wide collection of codecs which also offers extensive configuration options for users.
@@ -145,13 +135,12 @@
   icon:
   - free
   - portable
+  - full_i18n
   - cross_platform
   open_source:
     license: GPL 3.0
     host: GitHub
     url: https://github.com/mltframework/shotcut
-  i18n:
-  - all
   homepage: https://www.shotcut.org/
   download: https://www.shotcut.org/download/
   description: |
@@ -161,13 +150,12 @@
   homepage: https://sourceforge.net/projects/smplayer/
   icon:
   - free
+  - full_i18n
   - cross_platform
   open_source:
     license: GPL 2.0
     host: SourceForge
     url: https://sourceforge.net/projects/smplayer/
-  i18n:
-  - all
   description: |
     可针对单个视频记忆设置选项的多媒体播放器
     Multimedia player that can save different preferences for any single video
@@ -175,13 +163,12 @@
   icon:
   - free
   - portable
+  - full_i18n
   - cross_platform
   open_source:
     license: Apache 2.0
     host: GitHub
     url: https://github.com/tinyMediaManager/tinyMediaManager
-  i18n:
-  - all
   homepage: http://www.tinymediamanager.org/
   download: http://www.tinymediamanager.org/download/
   description: |
@@ -191,13 +178,12 @@
   homepage: http://www.videolan.org/vlc/index.html
   icon:
   - free
+  - full_i18n
   - cross_platform
   open_source:
     license: GPL 2.0
     host: GitHub
     url: https://github.com/videolan/vlc
-  i18n:
-  - all
   description: "免费开源多媒体播放器与框架，可播放DVD 音频CD VCD与多种流协议\nFree open source multimedia player
     and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols.\n
     \      \n"
@@ -206,10 +192,9 @@
   icon:
   - free
   - portable
+  - zh_CN
   open_source:
     license: NO LICENSE
     host: GitHub
     url: https://github.com/zogvm/zogvm
-  i18n:
-  - zh_CN
   description: "视频引索管理器       \nzogna video manager.\n"

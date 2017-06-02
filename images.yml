@@ -3,21 +3,19 @@
   homepage: http://www.faststone.org/
   icon:
   - free
-  i18n:
-  - all
+  - full_i18n
   description: |
     图片查看管理并提供基本图像编辑
     An image viewer and organizer free for personal and educational use with basic image editing tools.
 - name: Gimp
   icon:
   - free
+  - full_i18n
   - cross_platform
   open_source:
     license: GPL
     host: GNOME.org
     url: https://git.gnome.org/browse/gimp
-  i18n:
-  - all
   homepage: https://www.gimp.org/
   download: https://www.gimp.org/downloads/
   description: |
@@ -26,13 +24,12 @@
 - name: Greenshot
   icon:
   - free
+  - full_i18n
   - cross_platform
   open_source:
     license: NO LICENSE
     host: GitHub/BitBucket
     url: http://getgreenshot.org/downloads/
-  i18n:
-  - all
   homepage: http://getgreenshot.org/
   download: http://getgreenshot.org/downloads/
   description: |
@@ -42,8 +39,7 @@
   homepage: http://www.bandisoft.com/honeyview/
   icon:
   - free
-  i18n:
-  - all
+  - full_i18n
   description: |
     超快图片查看，支持多种格式
     A very fast image viewer supporting various formats.
@@ -51,8 +47,7 @@
   icon:
   - free
   - portable
-  i18n:
-  - all
+  - full_i18n
   homepage: http://www.irfanview.com/
   download: http://www.irfanview.com/main_download_engl.htm
   description: |
@@ -62,14 +57,13 @@
   icon:
   - free
   - portable
+  - en_US
   - cross_platform
   - cli
   open_source:
     license: Apache 2.0
     host: GitHub/GitLab
     url: https://www.imagemagick.org/script/index.php
-  i18n:
-  - en_US
   homepage: https://www.imagemagick.org/script/index.php
   download: https://www.imagemagick.org/script/download.php
   description: |
@@ -79,13 +73,12 @@
   icon:
   - free
   - portable
+  - full_i18n
   - cross_platform
   open_source:
     license: GPL
     host: inkscape.org
     url: https://inkscape.org/en/download/source/
-  i18n:
-  - all
   homepage: https://inkscape.org/en/
   download: https://inkscape.org/en/download/windows/
   description: |
@@ -94,8 +87,7 @@
 - name: Ken Burns Slideshow
   icon:
   - free
-  i18n:
-  - all
+  - full_i18n
   description: |
     像 iMac 一样轮播相册，即时、便携、全屏的 Ken Burns 特效幻灯片展示
     Cycle your album like the way in iMac: instant, portable, full-screen slideshow application with the Ken Burns effect.
@@ -103,12 +95,11 @@
   icon:
   - free
   - portable
+  - full_i18n
   open_source:
     license: GPL 3.0
     host: krita.org
     url: https://krita.org/en/download
-  i18n:
-  - all
   homepage: https://krita.org/en/
   download: https://krita.org/en/download/krita-desktop/
   description: |
@@ -117,8 +108,7 @@
 - name: Paint.net
   icon:
   - free
-  i18n:
-  - all
+  - full_i18n
   homepage: https://www.getpaint.net/index.html
   download: https://www.getpaint.net/download.html
   description: |
@@ -128,8 +118,7 @@
   icon:
   - free
   - portable
-  i18n:
-  - all
+  - full_i18n
   homepage: http://ngwin.com/picpick
   download: http://ngwin.com/picpick/download
   description: |
@@ -140,12 +129,11 @@
   icon:
   - free
   - portable
+  - en_US
   open_source:
     license: GPL 3.0
     host: GitHub
     url: https://github.com/sylnsfar/qrcode
-  i18n:
-  - en_US
   description: |
     Python编写的艺术二维码生成器
     Artistic QR Code in Python \(Animated GIF qr code\).
@@ -153,7 +141,6 @@
   icon:
   - free
   - portable
-  i18n:
   - en_US
   homepage: http://luci.criosweb.ro/riot/
   download: http://luci.criosweb.ro/riot/download/
@@ -165,12 +152,11 @@
   icon:
   - free
   - portable
+  - full_i18n
   open_source:
     license: GPL 3.0
     host: GitHub
     url: https://github.com/ShareX/ShareX
-  i18n:
-  - all
   description: |
     免费开源的屏幕捕获与分享
     A free and open source program that lets you capture or record any area of your screen and share it with a single press of a key.
@@ -178,12 +164,11 @@
   homepage: https://splashify.net/
   icon:
   - free
+  - en_US
   open_source:
     license: MIT
     host: GitHub
     url: https://github.com/gilbitron/Splashify
-  i18n:
-  - en_US
   description: |
     桌面壁纸软件
     Beautiful desktop wallpapers.
@@ -192,9 +177,8 @@
   icon:
   - free
   - portable
+  - full_i18n
   - cross_platform
-  i18n:
-  - all
   description: |
     免费跨平台图片批量转换工具，内置微调滤镜
     Powerful and free cross-platform batch image converter with simple adjustment ability
@@ -202,9 +186,8 @@
   icon:
   - free
   - portable
+  - full_i18n
   - cross_platform
-  i18n:
-  - all
   homepage: http://www.xnview.com/en/
   download: http://www.xnview.com/en/xnview/#downloads
   description: |

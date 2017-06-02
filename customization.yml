@@ -3,7 +3,6 @@
   homepage: http://huoying666.com/
   icon:
   - free
-  i18n:
   - zh_CN
   description: "~~Use .mp4/.wmv videos as your desktop background with amazingly low
     CPU usage.~~\n"
@@ -11,12 +10,11 @@
   homepage: http://www.mactype.net/
   icon:
   - free
+  - full_i18n
   open_source:
     license: NO LICENSE
     host: GitHub
     url: https://github.com/snowie2000/mactype
-  i18n:
-  - all
   description: |
     改进字体渲染效果
     Enjoy text rendering and the way it should be.
@@ -25,19 +23,17 @@
   icon:
   - free
   - portable
+  - full_i18n
   open_source:
     license: GPL 2.0
     host: GitHub
     url: https://github.com/rainmeter/rainmeter
-  i18n:
-  - all
   description: |
     桌面个性化
     Desktop customization.
 - name: SimpleSndVol
   icon:
   - free
-  i18n:
   - en_US
   homepage: http://winaero.com/comment.php?comment.news.14
   download: http://winaero.com/download.php?view.12
@@ -46,9 +42,8 @@
     Simple application what sits in your system tray near the clock and provides some useful and fast ways to control your sound volume and balance.
 - name: StartIsBack
   homepage: http://startisback.com
-  icon: []
-  i18n:
-  - all
+  icon:
+  - full_i18n
   description: |
     开始菜单个性化；还原旧版开始
     Start Menu customization or bing back what it was.
@@ -68,12 +63,11 @@
   icon:
   - free
   - portable
+  - en_US
   open_source:
     license: GPL 3.0
     host: GitHub
     url: https://github.com/TranslucentTB/TranslucentTB
-  i18n:
-  - en_US
   description: |
     任务栏透明化
     Make your Windows task bar transparent.
@@ -81,7 +75,6 @@
   homepage: http://www.upupoo.com/
   icon:
   - free
-  i18n:
   - zh_CN
   - en_US
   description: |
@@ -92,12 +85,11 @@
   icon:
   - free
   - portable
+  - en_US
   open_source:
     license: GPL 3.0
     host: GitHub
     url: https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer
-  i18n:
-  - en_US
   description: |
     修改 Windows 10 登录背景
     Changes the Windows 10 login screen background.

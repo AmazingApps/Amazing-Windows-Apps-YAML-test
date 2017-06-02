@@ -3,7 +3,6 @@
   homepage: http://wifi.160.com/
   icon:
   - free
-  i18n:
   - zh_CN
   description: |
     ~~虚拟 WiFi 路由软件，整洁免费~~
@@ -12,8 +11,7 @@
 - name: Advanced SystemCare
   icon:
   - free
-  i18n:
-  - all
+  - full_i18n
   homepage: http://www.iobit.com/en/advancedsystemcarefree.php#
   download: http://download.cnet.com/Advanced-SystemCare-Free/3001-2086_4-10407614.html?hasJs=n&part=dl-
   description: |
@@ -25,12 +23,11 @@
   icon:
   - free
   - portable
+  - full_i18n
   open_source:
     license: GPL 3.0
     host: GitHub
     url: https://github.com/stefansundin/altdrag
-  i18n:
-  - all
   description: |
     按下 Alt 键时，拖动窗口，调整大小，最小化等等
     You are now alllowed to easily drag, resize, minimize, etc. windows when pressing the alt key.
@@ -39,7 +36,6 @@
   icon:
   - free
   - portable
-  i18n:
   - zh_CN
   - en_US
   homepage: http://www.disk-partition.com/
@@ -50,17 +46,15 @@
 - name: AquaSnap
   icon:
   - free
-  i18n:
-  - all
+  - full_i18n
   homepage: http://www.nurgo-software.com/products/aquasnap
   download: http://www.nurgo-software.com/pricing/aquasnap
   description: |
     为窗口添加全局动作特效，显著提升多窗口操作效率
     Add action effects to your windows globally to improve your operating efficiency
 - name: cFosSpeed
-  icon: []
-  i18n:
-  - all
+  icon:
+  - full_i18n
   homepage: https://www.cfos.de/en/cfosspeed/cfosspeed.htm
   download: https://www.cfos.de/en/download/download.htm
   description: |
@@ -69,8 +63,7 @@
 - name: "~~Clover~~"
   icon:
   - free
-  i18n:
-  - all
+  - full_i18n
   description: |
     ~~为文件资源浏览器增加多标签特性~~
     ~~Bring tabs to Windows Explorer~~
@@ -80,12 +73,11 @@
   icon:
   - free
   - portable
+  - full_i18n
   open_source:
     license: MIT
     host: GitHub
     url: https://github.com/Chuyu-Team
-  i18n:
-  - all
   description: |
     全球首家基于 CBS 的 Dism GUI 实现
     First CBS-based Dism GUI implementation globally.
@@ -93,12 +85,11 @@
   homepage: https://sourceforge.net/projects/ditto-cp/
   icon:
   - free
+  - full_i18n
   open_source:
     license: GPL 3.0
     host: SourceForge
     url: https://sourceforge.net/projects/ditto-cp/
-  i18n:
-  - all
   description: |
     剪贴板管理
     Clipboard manager.
@@ -106,12 +97,11 @@
   homepage: https://www.microsoft.com/zh-cn/store/p/eartrumpet/9nblggh516xp
   icon:
   - free
+  - en_US
   open_source:
     license: MIT
     host: GitHub
     url: https://github.com/File-New-Project/EarTrumpet
-  i18n:
-  - en_US
   description: |
     分别调整系统内所有使用扬声器的应用的音量
     Adjust volume for all apps individually.
@@ -122,8 +112,7 @@
   icon:
   - free
   - portable
-  i18n:
-  - all
+  - full_i18n
   homepage: https://lopesoft.com/index.php/en/products
   download: https://lopesoft.com/index.php/en/download/filemenu-tools
   description: |
@@ -133,8 +122,7 @@
   icon:
   - free
   - portable
-  i18n:
-  - all
+  - full_i18n
   homepage: https://www.geekuninstaller.com/
   download: https://www.geekuninstaller.com/download
   description: |
@@ -143,8 +131,7 @@
 - name: Iobit Uninstaller
   icon:
   - free
-  i18n:
-  - all
+  - full_i18n
   homepage: http://www.iobit.com/en/advanceduninstaller.php#
   download: http://download.cnet.com/IObit-Uninstaller/3001-2096_4-75161625.html?hasJs=n&part=dl-
   description: |
@@ -154,8 +141,7 @@
   icon:
   - free
   - portable
-  i18n:
-  - all
+  - full_i18n
   homepage: https://mediaarea.net/en/MediaInfo
   download: https://mediaarea.net/en/MediaInfo/Download/Windows
   description: |
@@ -165,12 +151,11 @@
   icon:
   - free
   - portable
+  - en_US
   open_source:
     license: GPL 3.0
     host: GitHub
     url: https://github.com/henrypp/memreduct
-  i18n:
-  - en_US
   homepage: http://www.henrypp.org/product/memreduct
   download: https://github.com/henrypp/memreduct/releases/latest
   description: |
@@ -181,7 +166,6 @@
   icon:
   - free
   - portable
-  i18n:
   - en_US
   description: |
     增强型任务管理器，允许终结一些系统的关键进程
@@ -190,12 +174,11 @@
   icon:
   - free
   - portable
+  - en_US
   open_source:
     license: GPL 3.0
     host: GitHub
     url: https://github.com/processhacker2/processhacker2
-  i18n:
-  - en_US
   homepage: https://wj32.org/processhacker/index.php
   download: https://wj32.org/processhacker/downloads.php
   description: |
@@ -205,8 +188,7 @@
   homepage: https://bitsum.com/
   icon:
   - free
-  i18n:
-  - all
+  - full_i18n
   description: |
     自动实时调节优化系统内所有进程优先级以防止一些设备的卡死
     Adjust processes priority to prevent CPU unresponsing on some devices
@@ -215,12 +197,11 @@
   icon:
   - free
   - portable
+  - full_i18n
   open_source:
     license: NO LICENSE
     host: HOMEPAGE
     url: http://qttabbar.wikidot.com/
-  i18n:
-  - all
   description: |
     一站式 Explorer 增强工具
     Significantly improve Explorer efficiency
@@ -229,8 +210,7 @@
   icon:
   - free
   - portable
-  i18n:
-  - all
+  - full_i18n
   homepage: https://www.rapidee.com/en/about
   download: https://www.rapidee.com/en/download
   description: |
@@ -239,8 +219,7 @@
 - name: Seer
   icon:
   - free
-  i18n:
-  - all
+  - full_i18n
   homepage: http://1218.io/
   download: http://sourceforge.net/projects/ccseer/
   description: |
@@ -249,8 +228,7 @@
 - name: Startup Delayer
   icon:
   - free
-  i18n:
-  - all
+  - full_i18n
   homepage: http://www.r2.com.au/page/products/show/startup-delayer/
   download: http://www.r2.com.au/page/products/download/startup-delayer/
   description: |
@@ -260,7 +238,6 @@
   icon:
   - free
   - portable
-  i18n:
   - en_US
   homepage: http://winaero.com/comment.php?comment.news.1836
   download: http://winaero.com/request.php?1796
@@ -270,8 +247,7 @@
 - name: WinDirStat
   icon:
   - free
-  i18n:
-  - all
+  - full_i18n
   homepage: https://windirstat.net/
   download: https://www.fosshub.com/WinDirStat.html
   description: |
@@ -280,7 +256,6 @@
 - name: Windows 10 Codecs
   icon:
   - free
-  i18n:
   - en_US
   homepage: http://shark007.net/
   download: http://shark007.net/forum/Thread-Setup-and-usage

@@ -2,9 +2,8 @@
 - name: Discord
   icon:
   - free
+  - full_i18n
   - cross_platform
-  i18n:
-  - all
   homepage: https://discordapp.com/
   download: https://discordapp.com/download
   description: |
@@ -13,9 +12,8 @@
 - name: LINE 连我
   icon:
   - free
+  - full_i18n
   - cross_platform
-  i18n:
-  - all
   homepage: https://line.me/en/
   download: https://line.me/en/download
   description: |
@@ -24,9 +22,8 @@
 - name: mIRC
   icon:
   - free
+  - full_i18n
   - cross_platform
-  i18n:
-  - all
   homepage: http://www.mirc.com/
   download: http://www.mirc.com/get.html
   description: |
@@ -35,13 +32,12 @@
 - name: Quassel
   icon:
   - free
+  - full_i18n
   - cross_platform
   open_source:
     license: GPL
     host: GitHub
     url: https://github.com/quassel/quassel
-  i18n:
-  - all
   homepage: http://quassel-irc.org/
   download: http://quassel-irc.org/downloads
   description: |
@@ -52,13 +48,12 @@
   icon:
   - free
   - portable
+  - full_i18n
   - cross_platform
   open_source:
     license: GPL 3.0
     host: GitHub
     url: https://github.com/telegramdesktop/tdesktop
-  i18n:
-  - all
   description: |
     专注于速度与安全性的通信应用
     A messaging app with a focus on speed and security, it’s super fast, simple and free.
@@ -67,8 +62,7 @@
   icon:
   - free
   - portable
-  i18n:
-  - all
+  - full_i18n
   description: |
     WhatsApp 网页客户端
     Awesome WhatsApp Web Client to deliver you the best WhatsApp experience.

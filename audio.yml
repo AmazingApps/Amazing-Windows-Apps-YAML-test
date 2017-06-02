@@ -3,9 +3,8 @@
   icon:
   - free
   - portable
+  - full_i18n
   - cross_platform
-  i18n:
-  - all
   homepage: https://www.aimp.ru/index.php
   download: https://www.aimp.ru/index.php?do=download
   description: |
@@ -15,13 +14,12 @@
   icon:
   - free
   - portable
+  - full_i18n
   - cross_platform
   open_source:
     license: GPL 2.0
     host: Github
     url: https://github.com/audacity/audacity
-  i18n:
-  - all
   homepage: http://www.audacityteam.org/
   download: http://www.audacityteam.org/download/windows/
   description: |
@@ -30,7 +28,6 @@
 - name: Autolyrics
   icon:
   - free
-  i18n:
   - zh_CN
   - en_US
   homepage: http://www.autolyric.com/
@@ -41,12 +38,11 @@
 - name: Dopamine
   icon:
   - free
+  - full_i18n
   open_source:
     license: GPL 3.0
     host: Github
     url: https://github.com/digimezzo/Dopamine
-  i18n:
-  - all
   homepage: http://www.digimezzo.com/software/dopamine/
   download: http://www.digimezzo.com/content/software/dopamine/
   description: |
@@ -55,8 +51,7 @@
 - name: Exact Audio Copy
   icon:
   - free
-  i18n:
-  - all
+  - full_i18n
   homepage: http://exactaudiocopy.de/
   download: http://www.exactaudiocopy.de/en/index.php/resources/download/
   description: |
@@ -66,9 +61,8 @@
   icon:
   - free
   - portable
-  - cross_platform
-  i18n:
   - en_US
+  - cross_platform
   homepage: http://www.foobar2000.org/
   download: http://www.foobar2000.org/download
   description: |
@@ -78,7 +72,6 @@
   homepage: http://www.codecguide.com/download_kl.htm
   icon:
   - free
-  i18n:
   - en_US
   description: |
     DirectShow 过滤器集合并带有 VFW/ACM 解码器及相关工具
@@ -87,13 +80,12 @@
   homepage: https://listen1.github.io/listen1
   icon:
   - free
+  - zh_CN
+  - en_US
   open_source:
     license: MIT
     host: Github
     url: https://github.com/listen1/listen1_desktop
-  i18n:
-  - zh_CN
-  - en_US
   description: |
     一站式免费音乐集合
     One for all free music in china \(Windows, Mac, Linux desktop\).
@@ -102,25 +94,23 @@
   icon:
   - free
   - portable
+  - zh_CN
   - cross_platform
   open_source:
     license: GPL
     host: sourceforge
     url: https://sourceforge.net/projects/mcool/
-  i18n:
-  - zh_CN
   description: |
     支持 GIF 背景的极简音频播放器
     An extremely brief audio player that supports GIF background
 - name: Mixxx
   icon:
   - free
+  - full_i18n
   open_source:
     license: Mixxx 2.1
     host: Github
     url: https://github.com/mixxxdj/mixxx
-  i18n:
-  - all
   homepage: https://mixxx.org/
   download: http://mixxx.org/download/
   description: |
@@ -131,13 +121,12 @@
   icon:
   - free
   - portable
+  - full_i18n
   - cross_platform
   open_source:
     license: GPL 3.0
     host: Github
     url: https://github.com/IrosTheBeggar/mStream
-  i18n:
-  - all
   description: |
     跨平台播放任意设备的音频流
     A suite of open source software that lets you sync and stream your music between all your devices
@@ -145,8 +134,7 @@
   icon:
   - free
   - portable
-  i18n:
-  - all
+  - full_i18n
   homepage: http://getmusicbee.com/
   download: http://getmusicbee.com/downloads/
   description: |
@@ -155,12 +143,11 @@
 - name: MusicBrainz Picard
   icon:
   - free
+  - full_i18n
   open_source:
     license: GPL 2.0
     host: Github
     url: https://github.com/metabrainz/picard
-  i18n:
-  - all
   homepage: https://picard.musicbrainz.org/
   download: https://picard.musicbrainz.org/downloads/
   description: |
@@ -169,13 +156,12 @@
 - name: TTKMusicplayer
   icon:
   - free
+  - zh_CN
+  - en_US
   open_source:
     license: GPL 2.0
     host: Github
     url: https://github.com/Greedysky/TTKMusicplayer
-  i18n:
-  - zh_CN
-  - en_US
   homepage: http://download.csdn.net/album/detail/3094
   download: http://download.csdn.net/album/detail/3094
   description: |

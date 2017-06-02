@@ -3,17 +3,15 @@
   homepage: http://clipber.com/clipber/
   icon:
   - free
-  - cross_platform
-  i18n:
   - zh_CN
+  - cross_platform
   description: |
     跨平台系统剪贴板同步工具
     A cloud sync tool for system clipboard across multiple platforms.
 - name: Defraggler
   icon:
   - free
-  i18n:
-  - all
+  - full_i18n
   homepage: https://www.piriform.com/defraggler
   download: https://www.piriform.com/defraggler/download
   description: |
@@ -24,12 +22,11 @@
   icon:
   - free
   - portable
+  - en_US
   open_source:
     license: MIT
     host: GitHub
     url: https://github.com/dziemborowicz/hourglass
-  i18n:
-  - en_US
   description: |
     自然语言倒计时器
     A tiny countdown timer in natural languages.
@@ -38,7 +35,6 @@
   icon:
   - free
   - portable
-  i18n:
   - en_US
   description: |
     Windows 键盘活动可视化以便录屏时展示
@@ -47,7 +43,6 @@
   homepage: http://www.cockos.com/licecap/
   icon:
   - free
-  i18n:
   - en_US
   description: |
     屏幕录制并保存为 GIF
@@ -57,12 +52,11 @@
   icon:
   - free
   - portable
+  - zh_CN
   open_source:
     license: NO LICENSE
     host: TaoCode
     url: http://code.taobao.org/p/mychrome/src/
-  i18n:
-  - zh_CN
   homepage: http://bbs.kafan.cn/thread-1725205-1-1.html
   download: http://code.taobao.org/p/mychrome/src/trunk/release/
   description: |
@@ -72,8 +66,7 @@
   icon:
   - free
   - portable
-  i18n:
-  - all
+  - full_i18n
   homepage: http://launcher.nirsoft.net/
   download: http://launcher.nirsoft.net/downloads/index.html
   description: |
@@ -83,8 +76,7 @@
   homepage: https://ninite.com/
   icon:
   - free
-  i18n:
-  - all
+  - full_i18n
   description: |
     更新安装软件的简单快速的方式
     The easiest, fastest way to update or install software.
@@ -93,8 +85,7 @@
   icon:
   - free
   - portable
-  i18n:
-  - all
+  - full_i18n
   description: |
     批量 Ping 多个主机名或 IP 地址，实时显示结果，并可导出 HTML TEXT XML
     Easily ping multiple host names and IP addresses and export as HTML, TEXT, XML
@@ -106,12 +97,11 @@
   icon:
   - free
   - portable
+  - full_i18n
   open_source:
     license: GPL3.0
     host: GitHub
     url: https://github.com/pbatard/rufus
-  i18n:
-  - all
   description: |
     简单地创建 U 盘启动盘
     Create bootable USB drives in an easy way.
@@ -120,21 +110,19 @@
   icon:
   - free
   - portable
+  - full_i18n
   open_source:
     license: Microsoft Public License
     host: GitHub
     url: https://github.com/NickeManarin/ScreenToGif/
-  i18n:
-  - all
   description: |
     将选定区域屏幕录制为 GIF 或视频
     ScreenToGif allows you to record a selected area of your screen and save it as a gif or video.
 - name: spacedesk
   icon:
   - free
-  - cross_platform
-  i18n:
   - en_US
+  - cross_platform
   homepage: http://www.spacedesk.net/
   download: http://spacedesk.ph/download/
   description: |
@@ -145,12 +133,11 @@
   icon:
   - free
   - portable
+  - en_US
   open_source:
     license: GPL 3.0
     host: GitHub
     url: https://github.com/Codeusa/SteamCleaner
-  i18n:
-  - en_US
   description: |
     拯救因大型游戏平台而告急的磁盘空间
     A PC utility for restoring disk space from various game clients like Origin, Steam, Uplay, Battle.net, GoG and Nexon.
@@ -159,7 +146,6 @@
   icon:
   - free
   - portable
-  i18n:
   - en_US
   description: |
     移动已安装的 Steam 游戏所在目录
@@ -167,8 +153,7 @@
 - name: SUMo
   icon:
   - free
-  i18n:
-  - all
+  - full_i18n
   homepage: http://www.kcsoftwares.com/?sumo
   download: http://www.kcsoftwares.com/?download
   description: |
@@ -177,7 +162,6 @@
 - name: "~~Touchpad Blocker~~"
   icon:
   - free
-  i18n:
   - en_US
   description: |
     ~~打字时防止因触摸板造成的光标跳动~~
@@ -188,7 +172,6 @@
   icon:
   - free
   - portable
-  i18n:
   - en_US
   description: |
     屏幕局部放大
