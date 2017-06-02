@@ -1,0 +1,238 @@
+---
+- name: Anydesk
+  homepage: http://anydesk.com/
+  icon:
+  - free
+  - portable
+  - cross_platform
+  i18n:
+  - all
+  description: |
+    顺手的远程桌面应用
+    A comfortable remote desktop application.
+- name: Best Trace
+  homepage: https://www.ipip.net/download.html
+  icon:
+  - free
+  i18n:
+  - zh_CN
+  description: |
+    从 Windows 中发起 traceroute 请求并可视化展示
+    Raise up traceroute request from Windows with route visilization display.
+- name: "**Brave**"
+  homepage: https://www.brave.com/
+  icon:
+  - free
+  - cross_platform
+  open_source:
+    license: MPL 2.0
+    host: GitHub
+    url: https://github.com/brave
+  i18n:
+  - all
+  description: |
+    自动拦截广告与追踪器的浏览器
+    A browser automatically blocks ads and trackers.
+- name: Cent Browser
+  homepage: http://www.centbrowser.com/
+  icon:
+  - free
+  - portable
+  i18n:
+  - all
+  description: |
+    附带的许多特性显著增强了 Chromium 浏览器的体验
+    An enhanced version of the Chromium web browser that bundles many useful features.
+- name: Chrome
+  homepage: https://dl.google.com
+  icon:
+  - free
+  - cross_platform
+  i18n:
+  - all
+  description: |
+    一款适用于计算机、手机和平板电脑的浏览器
+    One browser for your computer, phone and tablet
+- name: Chromium
+  icon:
+  - free
+  - portable
+  - cross_platform
+  open_source:
+    license: BSD & Others
+    host: chromium.org
+    url: https://www.chromium.org/developers/how-tos/get-the-code
+  i18n:
+  - all
+  homepage: https://www.chromium.org/Home
+  download: https://www.chromium.org/getting-involved/download-chromium
+  description: |
+    Chromium 是一个由 Google 主导开发的网页浏览器，以 BSD 许可证等多重开源协议发行并且开放源代码，Chrome 和 Chromium 在实际功能上没有太大差距，可以说 Chromium 是 Chrome 的开源版本
+    Chromium is an open-source web browser project started by Google, to provide the source code for the proprietary Google Chrome browser. The two browsers share the majority of code and features, though there are some minor differences in features, logos and they have different licensing
+- name: CloudXNS DDNS with PowerShell
+  homepage: https://03k.org/cloudxns-api-ddns.html
+  icon:
+  - free
+  - portable
+  open_source:
+    license: MIT
+    host: GitHub
+    url: https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell
+  i18n:
+  - en_US
+  description: |
+    一个利用 CloudXNS 的 API 实现自己的 DDNS 服务的 PowerShell 脚本
+    A PowerShell script to establish own DDNS service on CloudXNS API
+- name: Firefox 火狐
+  icon:
+  - free
+  - cross_platform
+  open_source:
+    license: MPL
+    host: mozilla.org
+    url: https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Source_Code/Downloading_Source_Archives
+  i18n:
+  - all
+  homepage: https://www.mozilla.org
+  download: https://www.mozilla.org/en-US/firefox/all/
+  description: |
+    开源网页浏览器，高度扩展性并尊重用户隐私
+    An open source web browser that is highly extensive and privacy respecting.
+- name: HaloRadio
+  icon:
+  - free
+  i18n:
+  - zh_HK
+  - en_US
+  - ja_JP
+  description: |
+    在 Windows 享受豆瓣电台、Soundcloud、互联网收音机与 Podcast
+    Douban.FM, Soundcloud, Internet Radio and Podcast on your Windows
+- name: Maxthon
+  homepage: http://www.maxthon.com/mx5/
+  icon:
+  - free
+  - portable
+  - cross_platform
+  i18n:
+  - zh_CN
+  - en_US
+  description: |
+    * ###### 此处指国际版，请注意与国内版相区别｜Here the international version is listed instead of that provided in mainland China
+    同时内嵌 Trident 与 chromium 的网页浏览器，内置高效密码管理器
+    A Web browser that embedded with both Trident & chromium with a smart password manager.
+- name: Opera
+  homepage: http://www.opera.com/
+  icon:
+  - free
+  - portable
+  - cross_platform
+  i18n:
+  - all
+  description: |
+    基于 chromium 的浏览器，内置内容拦截器与快速预读取
+    A chromiun-based browser with built-in content blocker and with faster prefetch.
+- name: Proxifier
+  icon:
+  - portable
+  i18n:
+  - en_US
+  homepage: http://proxifier.com/
+  download: http://proxifier.com/download.htm
+  description: |
+    为没有代理支持的应用添加代理
+    Allows network applications that do not support working through proxy servers
+- name: QuiteRSS
+  icon:
+  - free
+  - portable
+  - cross_platform
+  open_source:
+    license: GPL 3.0
+    host: GitHub
+    url: https://github.com/QuiteRSS/quiterss
+  i18n:
+  - all
+  homepage: https://quiterss.org/
+  download: https://quiterss.org/en/download
+  description: |
+    开源跨平台 RSS/Atom 阅读器
+    Open-source cross-platform RSS/Atom news feeds reader.
+- name: Retroshare
+  icon:
+  - free
+  - portable
+  - cross_platform
+  open_source:
+    license: GPL 2.0
+    host: GitHub
+    url: https://github.com/RetroShare/RetroShare
+  i18n:
+  - all
+  homepage: http://retroshare.net/
+  download: http://retroshare.net/downloads.html
+  description: |
+    免费开源适用于亲友间的安全的去中心化交流平台，可用于聊天、语音视频、分享文件、论坛等
+    A free and open source cross-platform, Friend-2-Friend and secure decentralised communication platform for chatting, voice & video call, files sharing, forum building, etc.
+- name: SoundWire
+  homepage: http://georgielabs.net/
+  icon:
+  - free
+  - cross_platform
+  i18n:
+  - all
+  description: |
+    使用无线传输音频，从 PC 到 Android、平板或者其它 PC
+    Wirelessly transmit any music or audio from your PC to your Android phone, tablet, or other PCs.
+- name: TeamViewer
+  homepage: http://www.teamviewer.com/
+  icon:
+  - free
+  - portable
+  - cross_platform
+  i18n:
+  - all
+  description: |
+    远程控制与桌面共享会议工具，也可以共享文件
+    A proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers.
+- name: Tor Project
+  icon:
+  - free
+  - cross_platform
+  open_source:
+    license: BSD/MIT
+    host: torproject.org
+    url: https://www.torproject.org/download/download.html.en
+  i18n:
+  - zh_CN
+  - en_US
+  homepage: https://www.torproject.org/
+  download: https://www.torproject.org/download/download.html.en
+  description: |
+    匿名化通信浏览器
+    Enable anonymous communication.
+- name: Vivaldi
+  homepage: https://vivaldi.com/
+  icon:
+  - free
+  - cross_platform
+  i18n:
+  - all
+  description: |
+    同样基于 chromium 的优秀浏览器
+    Another chromium-based browser with amazing features.
+- name: ZeroNet
+  homepage: https://zeronet.io/
+  icon:
+  - free
+  - portable
+  - cross_platform
+  open_source:
+    license: GPL 2.0
+    host: GitHub
+    url: https://github.com/HelloZeroNet/ZeroNet
+  i18n:
+  - all
+  description: |
+    开源跨平台的去中心化网络框架
+    Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network

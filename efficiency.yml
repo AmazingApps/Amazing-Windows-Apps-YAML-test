@@ -1,0 +1,233 @@
+---
+- name: Desktopcal
+  homepage: http://www.desktopcal.com/
+  icon:
+  - free
+  i18n:
+  - all
+  description: |
+    放置于 Windows 桌面上的日历，用做备忘
+    A cool calendar placed on your windows desktop used as a memo.
+- name: Double Commander
+  icon:
+  - free
+  - portable
+  - cross_platform
+  open_source:
+    license: GPL 2.0
+    host: SourceForge
+    url: https://sourceforge.net/projects/doublecmd/
+  i18n:
+  - all
+  homepage: https://doublecmd.sourceforge.io/
+  download: https://sourceforge.net/p/doublecmd/wiki/Download/
+  description: |
+    开源跨平台文件管理器，受 Total Commander 启发并加入新特性
+    A cross platform open source file manager, inspired by Total Commander and features some new ideas
+- name: Everything
+  homepage: http://www.voidtools.com/
+  icon:
+  - free
+  - portable
+  i18n:
+  - all
+  description: |
+    最快速的文件/文件夹搜索工具
+    The fastest file/folder search tool by name.
+- name: Find and Run Robot
+  homepage: https://www.donationcoder.com/Software/Mouser/findrun/
+  icon:
+  - free
+  - portable
+  i18n:
+  - en_US
+  description: |
+    可高度自定义的启动器
+    A launcher with highly customizable features
+- name: FreeCommander
+  icon:
+  - free
+  - portable
+  i18n:
+  - all
+  homepage: http://freecommander.com/en/summary/
+  download: http://freecommander.com/en/downloads/
+  description: |
+    简单易用的 Windows 标准文件管理器替代
+    An easy-to-use alternative to the standard windows file manager.
+- name: GestureSign
+  icon:
+  - free
+  open_source:
+    license: GPL 2.0
+    host: GitHub
+    url: https://github.com/TransposonY/GestureSign
+  i18n:
+  - zh_CN
+  - en_US
+  description: |
+    针对 Windows 平板设计的触摸屏手势软件
+    A gesture recognition software for Windows tablet with touch screen.
+- name: Launchy
+  icon:
+  - free
+  open_source:
+    license: GPL 2.0
+    host: SourceForge
+    url: https://sourceforge.net/projects/launchy/
+  i18n:
+  - all
+  homepage: http://www.launchy.net/
+  download: http://www.launchy.net/download.php
+  description: |
+    开源键盘启动器
+    The Open Source Keystroke Launcher.
+- name: Listary
+  homepage: http://www.listary.com/
+  icon:
+  - free
+  i18n:
+  - all
+  description: |
+    设计独到的搜索工具
+    Keep files at your fingertips. An unique search utility.
+- name: Multi Commander
+  homepage: http://multicommander.com/
+  icon:
+  - free
+  - cli
+  i18n:
+  - all
+  description: |
+    免费的专业文件管理器
+    File manager for professionals.
+- name: Nimi Places
+  homepage: http://mynimi.net/Projects/Nimi-Places/
+  icon:
+  - free
+  i18n:
+  - en_US
+  description: |
+    Fences 的免费替代，具备媒体文件预览功能
+    A free alternative, with media preview, to Fences
+- name: Outlook on the Desktop
+  icon:
+  - free
+  open_source:
+    license: MIT
+    host: GitHub
+    url: https://github.com/mscrivo/ootd
+  i18n:
+  - en_US
+  homepage: https://outlookonthedesktop.com/
+  download: https://outlookonthedesktop.com/download
+  description: |
+    在桌面直接且完整地调用 Outlook 功能
+    Direct & complete access to Microsoft Outlook right on the desktop
+- name: Q-Dir
+  icon:
+  - free
+  - portable
+  i18n:
+  - all
+  homepage: http://www.softwareok.com/?seite=Freeware/Q-Dir
+  download: http://www.softwareok.com/?Download=Q-Dir
+  description: |
+    独到的四屏比对的高级文件管理器
+    A file manager with quadra-view technique
+- name: RescueTime
+  homepage: https://team.rescuetime.com/
+  icon:
+  - free
+  i18n:
+  - all
+  description: |
+    追踪你在应用与页面上使用的时间并给予详细活动报告
+    Track time spent on applications and websites, giving you an accurate picture of your day and give you detailed reports and data based on your activity.
+- name: Rolan
+  homepage: http://www.irolan.com/
+  icon:
+  - free
+  - portable
+  i18n:
+  - zh_CN
+  description: |
+    图标式迷你启动器
+    A tiny launcher in way of icons.
+- name: Snipaste
+  homepage: https://snipaste.com/
+  icon:
+  - free
+  - portable
+  i18n:
+  - all
+  description: |
+    简单强大的截图工具并可以将截图贴到桌面，元素检测功能惊艳
+    A simple but powerful snipping tool by amazing elements detection, and also allows you to pin the screenshot back onto the screen
+- name: Total Commander
+  homepage: https://www.ghisler.com/
+  icon: []
+  i18n:
+  - all
+  description: |
+    Windows 最佳文件管理
+    The best file manager for Windows.
+- name: "**WGestures**"
+  homepage: http://www.yingdev.com/projects/wgestures
+  icon:
+  - free
+  open_source:
+    license: MIT
+    host: GitHub
+    url: https://github.com/Wox-launcher/Wox
+  i18n:
+  - zh_CN
+  - en_US
+  description: |
+    Windows 全局手势
+    Modern mouse gestures for Windows. \(C\#\)
+- name: WindowTabs
+  icon:
+  - free
+  - portable
+  i18n:
+  - all
+  homepage: http://windowtabs.com/
+  download: http://windowtabs.com/download/
+  description: |
+    向任意程序添加标签页
+    Add Tabs to Any Application.
+- name: Winstep Nexus Dock
+  homepage: http://www.winstep.net/nexus.asp
+  icon:
+  - free
+  description: |
+    免费专业的托盘
+    Free professional dock for Windows.
+- name: Wox
+  homepage: http://www.getwox.com/
+  icon:
+  - free
+  open_source:
+    license: MIT
+    host: GitHub
+    url: https://github.com/Wox-launcher/Wox
+  i18n:
+  - all
+  description: |
+    高效启动器
+    An effective launcher for Windows.
+- name: ZIKU!
+  homepage: http://ziku.olereo.com/
+  icon:
+  - free
+  - portable
+  open_source:
+    license: NO LICENSE
+    host: GitHub
+    url: https://github.com/OLEREO/ZIKU
+  i18n:
+  - zh_CN
+  description: |
+    记录简单应用详情的数据库式的启动器
+    A database-style launcher that can collect some detailed info

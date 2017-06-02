@@ -1,0 +1,255 @@
+---
+- name: Advanced Renamer
+  icon:
+  - free
+  - portable
+  i18n:
+  - all
+  homepage: https://www.advancedrenamer.com/
+  download: https://www.advancedrenamer.com/download
+  description: |
+    一次性重命名多个文件/文件夹，可修改文件属性、时间戳等，具备自定义规则脚本支持
+    Renaming multiple files and folders at once  to change the names, attributes, and timestamps with scripting support.
+- name: Beyond Compare
+  icon:
+  - cross_platform
+  i18n:
+  - all
+  homepage: http://www.scootersoftware.com/
+  download: http://www.scootersoftware.com/download.php
+  description: |
+    高亮标注源代码、文件夹、图像等各种文件的差异
+    Highlight file differences: source code, folders, images, etc.
+- name: Dukto
+  homepage: http://www.msec.it/blog/?page_id=11
+  icon:
+  - free
+  - portable
+  - cross_platform
+  open_source:
+    license: GPL 2.0
+    host: SourceForge
+    url: https://sourceforge.net/projects/dukto/
+  i18n:
+  - en_US
+  description: |
+    开源跨平台文件传输工具
+    Open source file transfer
+- name: "**Duplicate Cleaner**"
+  icon:
+  - free
+  i18n:
+  - all
+  homepage: https://www.digitalvolcano.co.uk/duplicatecleaner.html
+  download: https://www.digitalvolcano.co.uk/dcdownloads.html
+  description: |
+    Duplicate file searching that supports sub-folders & MD5
+    支持子目录搜索或MD5码搜索的重复文件查询工具
+- name: FastCopy
+  homepage: https://ipmsg.org/tools/fastcopy.html.en
+  icon:
+  - free
+  - portable
+  open_source:
+    license: GPL 3.0
+    host: ipmsg.org
+    url: https://ipmsg.org/tools/fastcopy.html.en
+  i18n:
+  - en_US
+  description: |
+    快速复制、同步、删除文件。
+    The Fastest Copy/Delete Software on Windows.
+- name: FFRename Professional   菲菲更名宝贝之得意非凡
+  icon:
+  - free
+  - portable
+  i18n:
+  - zh_CN
+  homepage: http://www.ffhome.com/category/works/ffrenamepro
+  download: http://www.ffhome.com/works/1406.html
+  description: |
+    进阶文件重命名工具，带有重命名需要的一切能力
+    Advanced renaming tools with everything you need for renaming
+  warning: "###### ⚠NO UPDATE FOR LONG BUT NO BUGS FOUND YET   长期无更新但未发现明显的bug\n"
+- name: FileZilla
+  icon:
+  - free
+  - portable
+  - cross_platform
+  open_source:
+    license: GPL 2.0
+    host: SourceForge
+    url: https://sourceforge.net/projects/filezilla/
+  i18n:
+  - all
+  homepage: https://filezilla-project.org/
+  download: https://filezilla-project.org/download.php?show_all=1
+  description: |
+    FTP FTPS SFTP 客户端
+    FTP, FTPS and SFTP client.
+- name: FreeFileSync
+  homepage: http://www.freefilesync.org/
+  icon:
+  - free
+  - cross_platform
+  open_source:
+    license: GPL 3.0
+    host: freefilesync.org
+    url: https://www.freefilesync.org/download.php
+  i18n:
+  - all
+  description: |
+    简单的文件（夹）备份工具，支持镜像、双向、更新等方式
+    An easy backup solution for files and folders, It supports mirroring/two way sync/update between source and destination.
+  warning: "###### ⚠️DOWNLOAD ANOTHER HARMLESS APP AS DEFAULT   默认下载其它无害应用\n"
+- name: Hasher
+  homepage: http://www.den4b.com/products/hasher
+  icon:
+  - free
+  - portable
+  i18n:
+  - all
+  description: |
+    文件哈希值校验工具，支持CRC32 MD2 MD4 MD5 SHA1 SHA256 SHA512 RipeMD128 RipeMD160 ED2K
+    Hashing utility for verifying integrity of files using a wide range of supported algorithms: CRC32, MD2, MD4, MD5, SHA1, SHA256, SHA512, RipeMD128, RipeMD160, ED2K.
+- name: MediaCoder
+  icon:
+  - free
+  i18n:
+  - zh_CN
+  - en_US
+  description: |
+    免费的通用影音转码工具
+    Free Universal multimedia converter
+- name: Meld
+  homepage: http://meldmerge.org/
+  icon:
+  - free
+  - cross_platform
+  open_source:
+    license: GPL 2.0
+    host: GitHub
+    url: https://github.com/GNOME/meld
+  i18n:
+  - en_US
+  description: |
+    可视化文件文件夹对比
+    Visual diff and merge tool that helps you compare files, directories, and version controlled projects.
+- name: Pandoc
+  homepage: http://pandoc.org/
+  icon:
+  - free
+  open_source:
+    license: GPL 2.0+
+    host: GitHub
+    url: https://github.com/jgm/pandoc
+  i18n:
+  - en_US
+  description: |
+    通用文档转换器
+    A universal document converter.
+- name: ReNamer
+  icon:
+  - free
+  - portable
+  i18n:
+  - all
+  homepage: http://www.den4b.com/
+  download: http://www.den4b.com/products/renamer
+  description: |
+    强大灵活的文件重命名，提供许多强大内置规则
+    Powerful and flexible file renaming tool, which offers all the standard renaming procedures, including prefixes, suffixes, replacements, case changes, as well as removing contents of brackets, adding number sequences, changing file extensions, etc.
+- name: Resource Hacker
+  homepage: http://www.angusj.com/resourcehacker/
+  icon:
+  - free
+  - portable
+  i18n:
+  - en_US
+  description: |
+    获取Windows可执行文件（EXE DLL SCR MUI等）中的资源文件
+    Complete resource editing tool for any type of Windows executable \(\*.exe; \*.dll; \*.scr; \*.mui etc\).
+- name: rimraf
+  homepage: https://www.npmjs.com/package/rimraf
+  icon:
+  - free
+  - cli
+  open_source:
+    license: ISC
+    host: GitHub
+    url: https://github.com/isaacs/rimraf
+  i18n:
+  - en_US
+  description: |
+    node 使用的深度删除模块。删除深目录文件（夹）
+    A deep deletion module for node. Help to delete files and folders with very long paths.
+- name: SHAREit 茄子快传
+  icon:
+  - free
+  - cross_platform
+  i18n:
+  - all
+  description: |
+    跨平台文件传输
+    Cross-platform files transfer.
+- name: SpaceSniffer
+  icon:
+  - free
+  i18n:
+  - en_US
+  homepage: http://www.uderzo.it/main_products/space_sniffer/index.html
+  download: http://www.uderzo.it/main_products/space_sniffer/download.html
+  description: |
+    使用可视化树状图布局以直观展示大文件（夹）的磁盘占用情况
+    Lets you understand how folders and files are structured on your disks by using a treemap visualization layout for immediate perception of where big folders and files are placed on your devices.
+- name: Syncthing
+  homepage: https://syncthing.net/
+  icon:
+  - free
+  - portable
+  - cross_platform
+  open_source:
+    license: MPL 2.0
+    host: GitHub
+    url: https://github.com/syncthing/syncthing
+  i18n:
+  - all
+  description: |
+    不依赖云服务器即可在多计算机之间简单安全地同步文件
+    A continuous file synchronization program to synchronize files among multiple computers safely & sucrely without cloud server.
+- name: TeraCopy
+  homepage: http://www.codesector.com/teracopy
+  icon:
+  - free
+  - portable
+  i18n:
+  - all
+  description: |
+    更快速安全的文件复制方案，帮助解决复制错误、支持文件效验与拖放操作
+    Copy your files faster and more securely, help with copy error and file verification with drag'n'drop support.
+- name: Waltr
+  homepage: http://softorino.com/waltr/
+  icon:
+  - free
+  - cross_platform
+  i18n:
+  - all
+  description: |
+    向iPhone iTunes传输电影音频文件
+    Transfer any movie or music file to your iPhone w/o iTunes.
+- name: WinMerge
+  icon:
+  - free
+  - portable
+  open_source:
+    license: GPL 2.0
+    host: SourceForge
+    url: https://sourceforge.net/projects/winmerge/
+  i18n:
+  - all
+  homepage: http://winmerge.org/
+  download: http://winmerge.org/downloads/
+  description: |
+    工程化的文件文件夹对比工具
+    An Open Source differencing and merging tool for Windows
+  warning: "###### ⚠NO UPDATE FOR LONG BUT NO BUGS FOUND YET   长期无更新但未发现明显的bug\n"

@@ -1,0 +1,59 @@
+---
+- name: calibre
+  icon:
+  - free
+  - portable
+  open_source:
+    license: GPL 3.0
+    host: GitHub/FossHub
+    url: https://github.com/kovidgoyal/calibre https://www.fosshub.com/Calibre.html
+  i18n:
+  - all
+  homepage: http://calibre-ebook.com/
+  download: http://calibre-ebook.com/download
+  description: |
+    一站式解决你的所有电子书需求
+    One-stop solution to all your ebook need.
+- name: Gaaiho PDF Reader
+  homepage: http://pdf.gaaiho.com/index.php
+  icon:
+  - free
+  - cross_platform
+  i18n:
+  - all
+  description: |
+    媲美 Adobe Acrobat 的专业免费 PDF 阅读器
+    One of the preferred Adobe replacements
+- name: kobo
+  homepage: https://www.kobo.com/desktop
+  icon:
+  - free
+  i18n:
+  - all
+  description: |
+    巨丑无比但强大无比的电子书管理
+    Incredibly ugly but powerful software for ebook management and conversion.
+- name: NitroPDF
+  homepage: https://www.gonitro.com/pdf-reader
+  icon:
+  - free
+  i18n:
+  - all
+  description: |
+    重构 PDF 阅读体验
+    Amazing PDF reader you'll ever get.
+- name: Sumatra PDF
+  icon:
+  - free
+  - portable
+  open_source:
+    license: GPL 3.0
+    host: GitHub
+    url: https://github.com/sumatrapdfreader/sumatrapdf
+  i18n:
+  - all
+  homepage: http://www.sumatrapdfreader.org/free-pdf-reader.html
+  download: http://www.sumatrapdfreader.org/download-free-pdf-viewer.html
+  description: |
+    PDF ePub MOBI CHM XPS DjVu CBZ CBR 阅读器
+    PDF, ePub, MOBI, CHM, XPS, DjVu, CBZ, CBR reader.

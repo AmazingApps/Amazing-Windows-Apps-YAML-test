@@ -1,0 +1,196 @@
+---
+- name: Clipber
+  homepage: http://clipber.com/clipber/
+  icon:
+  - free
+  - cross_platform
+  i18n:
+  - zh_CN
+  description: |
+    跨平台系统剪贴板同步工具
+    A cloud sync tool for system clipboard across multiple platforms.
+- name: Defraggler
+  icon:
+  - free
+  i18n:
+  - all
+  homepage: https://www.piriform.com/defraggler
+  download: https://www.piriform.com/defraggler/download
+  description: |
+    简单有效的磁盘碎片整理工具
+    simple but powerful defragmentation
+- name: Hourglass
+  homepage: https://chris.dziemborowicz.com/apps/hourglass/
+  icon:
+  - free
+  - portable
+  open_source:
+    license: MIT
+    host: GitHub
+    url: https://github.com/dziemborowicz/hourglass
+  i18n:
+  - en_US
+  description: |
+    自然语言倒计时器
+    A tiny countdown timer in natural languages.
+- name: KeyCastOW
+  homepage: https://brookhong.github.io/2014/04/28/keycast-on-windows.html
+  icon:
+  - free
+  - portable
+  i18n:
+  - en_US
+  description: |
+    Windows 键盘活动可视化以便录屏时展示
+    Keystroke visualizer for Windows, lets you easily display your keystrokes while recording screencasts.
+- name: LICEcap
+  homepage: http://www.cockos.com/licecap/
+  icon:
+  - free
+  i18n:
+  - en_US
+  description: |
+    屏幕录制并保存为 GIF
+    Animated screen captures and save them directly to .GIF
+  warning: "###### ⚠NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug\n"
+- name: MyChrome
+  icon:
+  - free
+  - portable
+  open_source:
+    license: NO LICENSE
+    host: TaoCode
+    url: http://code.taobao.org/p/mychrome/src/
+  i18n:
+  - zh_CN
+  homepage: http://bbs.kafan.cn/thread-1725205-1-1.html
+  download: http://code.taobao.org/p/mychrome/src/trunk/release/
+  description: |
+    Google Chrome 的便携版引导器
+    Navigator for a portable version of Google Chrome
+- name: NirLauncher
+  icon:
+  - free
+  - portable
+  i18n:
+  - all
+  homepage: http://launcher.nirsoft.net/
+  download: http://launcher.nirsoft.net/downloads/index.html
+  description: |
+    超过 200 个便携工具的集合
+    NirLauncher is a package of more than 200 portable freeware utilities for Windows, all of them developed for NirSoft Web site during the last few years.
+- name: Ninite
+  homepage: https://ninite.com/
+  icon:
+  - free
+  i18n:
+  - all
+  description: |
+    更新安装软件的简单快速的方式
+    The easiest, fastest way to update or install software.
+- name: PingInfoView
+  homepage: https://quest-app.appspot.com/
+  icon:
+  - free
+  - portable
+  i18n:
+  - all
+  description: |
+    批量 Ping 多个主机名或 IP 地址，实时显示结果，并可导出 HTML TEXT XML
+    Easily ping multiple host names and IP addresses and export as HTML, TEXT, XML
+    Windows 下免费翻译工具
+    A free translator for Windows.
+  download: https://quest-app.appspot.com/download
+- name: rufus
+  homepage: http://rufus.akeo.ie/
+  icon:
+  - free
+  - portable
+  open_source:
+    license: GPL3.0
+    host: GitHub
+    url: https://github.com/pbatard/rufus
+  i18n:
+  - all
+  description: |
+    简单地创建 U 盘启动盘
+    Create bootable USB drives in an easy way.
+- name: ScreenToGif
+  homepage: http://www.screentogif.com/
+  icon:
+  - free
+  - portable
+  open_source:
+    license: Microsoft Public License
+    host: GitHub
+    url: https://github.com/NickeManarin/ScreenToGif/
+  i18n:
+  - all
+  description: |
+    将选定区域屏幕录制为 GIF 或视频
+    ScreenToGif allows you to record a selected area of your screen and save it as a gif or video.
+- name: spacedesk
+  icon:
+  - free
+  - cross_platform
+  i18n:
+  - en_US
+  homepage: http://www.spacedesk.net/
+  download: http://spacedesk.ph/download/
+  description: |
+    将本地网络中的其它设备作为扩展屏幕
+    Expands the Windows desktop computer screen to other computers over the local area network.
+- name: Steam Cleaner
+  homepage: https://github.com/Codeusa/SteamCleaner
+  icon:
+  - free
+  - portable
+  open_source:
+    license: GPL 3.0
+    host: GitHub
+    url: https://github.com/Codeusa/SteamCleaner
+  i18n:
+  - en_US
+  description: |
+    拯救因大型游戏平台而告急的磁盘空间
+    A PC utility for restoring disk space from various game clients like Origin, Steam, Uplay, Battle.net, GoG and Nexon.
+- name: Steam Mover
+  homepage: http://www.traynier.com/software/steammover
+  icon:
+  - free
+  - portable
+  i18n:
+  - en_US
+  description: |
+    移动已安装的 Steam 游戏所在目录
+    Change location of installed games from Steam.
+- name: SUMo
+  icon:
+  - free
+  i18n:
+  - all
+  homepage: http://www.kcsoftwares.com/?sumo
+  download: http://www.kcsoftwares.com/?download
+  description: |
+    无需使用本身软件就了解软件是否有更新可用
+    Just as its name: Software Update Monitor: tell you if updates are available before you need to use your software.
+- name: "~~Touchpad Blocker~~"
+  icon:
+  - free
+  i18n:
+  - en_US
+  description: |
+    ~~打字时防止因触摸板造成的光标跳动~~
+    ~~Software to prevent cursor from jumping when you are typing on notebook keyboard.~~
+  warning: "###### ⚠NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug\n"
+- name: ZoomIt
+  homepage: https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx
+  icon:
+  - free
+  - portable
+  i18n:
+  - en_US
+  description: |
+    屏幕局部放大
+    Zoom in on an area of the screen, move around while zoomed, and draw on the zoomed image.
+  warning: "###### ⚠NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug\n"

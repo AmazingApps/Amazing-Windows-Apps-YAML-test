@@ -1,0 +1,67 @@
+---
+- name: Cheat Engine
+  homepage: http://www.cheatengine.org/
+  icon:
+  - free
+  open_source:
+    license: NO LICENSE
+    host: GitHub
+    url: https://github.com/cheat-engine/cheat-engine/
+  i18n:
+  - en_US
+  description: |
+    通过简单脚本修改破译本地游戏
+    Hack local games by simple scripts
+  warning: "###### ⚠️DOWNLOAD ANOTHER HARMLESS APP AS DEFAULT   默认下载其它无害应用\n"
+- name: JoyToKey
+  icon:
+  - free
+  - portable
+  i18n:
+  - en_US
+  homepage: http://joytokey.net/en/
+  download: http://joytokey.net/en/download
+  description: |
+    使用键盘控制需要游戏手柄的游戏
+    Control your joystick PC games with keyboard
+- name: Locale Emulator
+  icon:
+  - free
+  - portable
+  open_source:
+    license: LGPL 3.0
+    host: GitHub
+    url: https://github.com/xupefei/Locale-Emulator
+  i18n:
+  - all
+  homepage: http://pooi.moe/Locale-Emulator/
+  download: https://github.com/xupefei/Locale-Emulator/releases
+  description: |
+    系统区域与语言的伪造、模拟。
+    Yet another region and language simulator.
+- name: Origin
+  homepage: https://www.origin.com/en-in/store/
+  icon: []
+  i18n:
+  - all
+  description: |
+    类似于 Steam，但属于 EA
+    Like Steam, but belongs to EA.
+- name: Remotr
+  homepage: http://remotrapp.com/
+  icon:
+  - free
+  - cross_platform
+  i18n:
+  - en_US
+  description: |
+    在其它任何设备上远程享受 PC 游戏
+    Stream and play your own computer games on your mobile phone, tablet, or even Smart TV
+- name: Steam
+  homepage: http://store.steampowered.com/
+  icon: []
+  i18n:
+  - all
+  description: |
+    最大在线游戏零售平台
+    Largest online video game retailer. Desktop app allows you to organise your library of games and play them at any time.

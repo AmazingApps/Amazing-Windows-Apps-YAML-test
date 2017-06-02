@@ -1,0 +1,27 @@
+---
+- name: Disable Data Logging
+  homepage: https://www.reddit.com/r/Windows10/comments/3f38ed/guide_how_to_disable_data_logging_in_w10
+  icon:
+  - free
+  i18n:
+  - en_US
+  description: |
+    使得 Windows 10 更加隐私安全
+    Make Windows 10 more private and safe.
+  warning: "###### ⚠DESIGNED FOR WINDOWS 10 ONLY   针对 Windows 10 设计\n"
+- name: Win10-Initial-Setup-Script
+  homepage: https://www.dasm.cz/clanek/jak-z-windows-10-udelat-desktopovy-system
+  icon:
+  - free
+  - cli
+  open_source:
+    license: MIT
+    host: GitHub
+    url: https://github.com/Disassembler0/Win10-Initial-Setup-Script
+  i18n:
+  - en_US
+  description: |
+    PowerShell 脚本，用于初始化 Windows 10 安装环境
+     PowerShell script for automation of routine tasks done after fresh installations of Windows 10
+  warning: "###### ⚠DESIGNED FOR WINDOWS 10 ONLY WITH CERTAIN RISK   针对 Windows 10
+    设计并具有一定风险\n"

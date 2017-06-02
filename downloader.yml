@@ -1,0 +1,174 @@
+---
+- name: aria2
+  homepage: https://aria2.github.io/
+  icon:
+  - free
+  - portable
+  - cross_platform
+  - cli
+  open_source:
+    license: GPL 2.0
+    host: GitHub
+    url: https://github.com/aria2/aria2
+  i18n:
+  - en_US
+  description: |
+    轻量级多协议支持、多镜像、跨平台下载工具，使用命令行操作。支持 HTTP/HTTPS、FTP、SFTP、BT 与磁链
+    A lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+- name: EagleGet
+  homepage: http://www.eagleget.com/
+  icon:
+  - free
+  - portable
+  i18n:
+  - all
+  description: |
+    免费全能下载管理器，支持HTTP\(S\) FTP MMS RTSP协议，也可以使用浏览器扩展检测页面媒体内容
+    Free all-in-one download manager for HTTP\(S\), FTP, MMS and RTSP protocol and also detecting Web media content by browser extension.
+  warning: "###### ⚠️DOWNLOAD ANOTHER HARMLESS APP BY DEFAULT   默认下载其它无害应用\n"
+- name: FDM
+  homepage: http://www.freedownloadmanager.org/
+  icon:
+  - free
+  - cross_platform
+  i18n:
+  - all
+  description: |
+    免费强大的下载加速管理器，支持HTTP/HTTPS/FTP/种子等协议
+    A powerful download accelerator and organizer with  HTTP/HTTPS/FTP/BitTorrent support.
+- name: hardseed
+  icon:
+  - free
+  - portable
+  - cross_platform
+  open_source:
+    license: GPL 2.0
+    host: GitHub
+    url: https://github.com/yangyangwithgnu/hardseed
+  i18n:
+  - en_US
+  homepage: http://yangyangwithgnu.github.io/
+  download: https://github.com/yangyangwithgnu/hardseed
+  description: |
+    针对1024的页面爬虫，可下载种子文件
+    A spider aimed to 1024 to download .torrent files
+  warning: "###### ⚠️MINORS SHOULD USE THIS UNDER INSTRUCTIONS 未成年人请在指导下使用\n"
+- name: HTTrack
+  homepage: https://www.httrack.com/page/2/en/index.html
+  icon:
+  - free
+  - portable
+  - cross_platform
+  i18n:
+  - all
+  description: |
+    离线浏览器工具，可以从网络下载完整页面内容
+    Offline browser utility, allowing you to download a website from the Internet to a local directory.
+- name: IDM
+  homepage: http://internetdownloadmanager.com/
+  icon: []
+  i18n:
+  - all
+  description: |
+    有效的下载加速器，具备响应错链解决能力
+    Internet Download Manager \(IDM\) is a tool to increase download speeds with comprehensive error recovery and resume capability.
+- name: Persepolis Download Manager
+  homepage: https://persepolisdm.github.io/
+  icon:
+  - free
+  - cross_platform
+  open_source:
+    license: GPL 3.0
+    host: GitHub
+    url: https://github.com/persepolisdm/persepolis
+  i18n:
+  - en_US
+  description: |
+    简单、易用、优雅、跨平台的 aria2 图形界面客户端
+    Cross-platform GUI client for aria2, easy to use and elegant.
+- name: qBittorrent
+  icon:
+  - free
+  - cross_platform
+  open_source:
+    license: GPL 2.0
+    host: SourceForge
+    url: https://sourceforge.net/projects/qbittorrent/
+  i18n:
+  - all
+  homepage: https://www.qbittorrent.org/
+  download: https://www.qbittorrent.org/download.php
+  description: |
+    基于 Qt 工具集的 µTorrent 开源替代
+    qBittorrent provides an open-source software alternative to µTorrent and is based on the Qt toolkit and libtorrent-rasterbar library
+- name: Resilio Sync
+  icon:
+  - free
+  - cross_platform
+  i18n:
+  - all
+  homepage: https://www.resilio.com/
+  download: https://www.resilio.com/individuals/
+  description: |
+    P2P 文件同步
+    A proprietary peer-to-peer file synchronization tool.
+- name: uGet
+  icon:
+  - free
+  - portable
+  - cross_platform
+  open_source:
+    license: LGPL 2.0
+    host: SourceForge
+    url: https://sourceforge.net/projects/urlget/
+  i18n:
+  - all
+  homepage: http://ugetdm.com/
+  download: http://ugetdm.com/downloads
+  description: |
+    轻量级多功能下载器，支持含 BT 在内的所有常见协议的同时兼容 Curl 与 aria2
+    Light-weighted yet multi-functional downloader supporting all usual protocol with Curl & aria2 pluged in.
+- name: WebTorrent Desktop
+  homepage: https://webtorrent.io/desktop/
+  icon:
+  - free
+  open_source:
+    license: MIT
+    host: GitHub
+    url: https://github.com/webtorrent/webtorrent-desktop
+  i18n:
+  - all
+  description: |
+    实时播放种子中的媒体流
+    Play streaming torrent contents without finishing downloading.
+- name: you-get
+  icon:
+  - free
+  - portable
+  open_source:
+    license: MIT
+    host: GitHub
+    url: https://github.com/soimort/you-get
+  i18n:
+  - en_US
+  homepage: https://you-get.org/
+  download: https://github.com/soimort/you-get/releases
+  description: |
+    视频音频嗅探器
+    A tiny downloader that scrapes the web.
+- name: youtube-dl
+  icon:
+  - free
+  - portable
+  - cli
+  open_source:
+    license: The Unlicense
+    host: GitHub
+    url: https://github.com/rg3/youtube-dl/
+  i18n:
+  - en_US
+  homepage: http://rg3.github.io/youtube-dl/
+  download: http://rg3.github.io/youtube-dl/download.html
+  description: |
+    从 YouTube 和许多其他网站下载视频的命令行工具
+    A command-line utility to download videos from YouTube.com and other video sites.

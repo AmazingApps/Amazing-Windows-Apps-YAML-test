@@ -1,0 +1,289 @@
+---
+- name: "~~160WIFI~~"
+  homepage: http://wifi.160.com/
+  icon:
+  - free
+  i18n:
+  - zh_CN
+  description: |
+    ~~虚拟 WiFi 路由软件，整洁免费~~
+    ~~A WiFi virtual router app, neat & free.~~
+  warning: "###### ⚠SUSPIOUS BEHAVIORS REPORTED  据报告有可疑行为\n"
+- name: Advanced SystemCare
+  icon:
+  - free
+  i18n:
+  - all
+  homepage: http://www.iobit.com/en/advancedsystemcarefree.php#
+  download: http://download.cnet.com/Advanced-SystemCare-Free/3001-2086_4-10407614.html?hasJs=n&part=dl-
+  description: |
+    一站式系统优化套件
+    An all-in-one system optimization unity.
+  warning: "###### ⚠BUNDLE ANOTHER HARMLESS APP   捆绑另一款无害应用\n"
+- name: AltDrag
+  homepage: https://stefansundin.github.io/altdrag/
+  icon:
+  - free
+  - portable
+  open_source:
+    license: GPL 3.0
+    host: GitHub
+    url: https://github.com/stefansundin/altdrag
+  i18n:
+  - all
+  description: |
+    按下 Alt 键时，拖动窗口，调整大小，最小化等等
+    You are now alllowed to easily drag, resize, minimize, etc. windows when pressing the alt key.
+  warning: "###### ⚠NO UPDATE FOR LONG BUT NO BUGS FOUND YET   长期无更新但未发现明显的bug\n"
+- name: AOMEI Partition Assistant  分区助手
+  icon:
+  - free
+  - portable
+  i18n:
+  - zh_CN
+  - en_US
+  homepage: http://www.disk-partition.com/
+  download: http://www.disk-partition.com/download-home.html
+  description: |
+    无损分区工具，提供简单、易用的磁盘分区管理操作
+    Resize, move, extend, merge and split partitions without data loss to maximize disk space use
+- name: AquaSnap
+  icon:
+  - free
+  i18n:
+  - all
+  homepage: http://www.nurgo-software.com/products/aquasnap
+  download: http://www.nurgo-software.com/pricing/aquasnap
+  description: |
+    为窗口添加全局动作特效，显著提升多窗口操作效率
+    Add action effects to your windows globally to improve your operating efficiency
+- name: cFosSpeed
+  icon: []
+  i18n:
+  - all
+  homepage: https://www.cfos.de/en/cfosspeed/cfosspeed.htm
+  download: https://www.cfos.de/en/download/download.htm
+  description: |
+    为不同进程调节不同的网络占用优先级并帮助降低延时
+    Modify processes priority on network traffic and help to reduce ping.
+- name: "~~Clover~~"
+  icon:
+  - free
+  i18n:
+  - all
+  description: |
+    ~~为文件资源浏览器增加多标签特性~~
+    ~~Bring tabs to Windows Explorer~~
+  warning: "###### ⚠INVASIVE ADS SUSPICION   侵入式广告嫌疑\n"
+- name: Dism++
+  homepage: https://www.chuyu.me/
+  icon:
+  - free
+  - portable
+  open_source:
+    license: MIT
+    host: GitHub
+    url: https://github.com/Chuyu-Team
+  i18n:
+  - all
+  description: |
+    全球首家基于 CBS 的 Dism GUI 实现
+    First CBS-based Dism GUI implementation globally.
+- name: Ditto
+  homepage: https://sourceforge.net/projects/ditto-cp/
+  icon:
+  - free
+  open_source:
+    license: GPL 3.0
+    host: SourceForge
+    url: https://sourceforge.net/projects/ditto-cp/
+  i18n:
+  - all
+  description: |
+    剪贴板管理
+    Clipboard manager.
+- name: EarTrumpet
+  homepage: https://www.microsoft.com/zh-cn/store/p/eartrumpet/9nblggh516xp
+  icon:
+  - free
+  open_source:
+    license: MIT
+    host: GitHub
+    url: https://github.com/File-New-Project/EarTrumpet
+  i18n:
+  - en_US
+  description: |
+    分别调整系统内所有使用扬声器的应用的音量
+    Adjust volume for all apps individually.
+    * ###### Version compatible with Windows 8.1 available on [GitHub](https://github.com/File-New-Project/EarTrumpet). RS 2 users are suggested to install from Windows Store
+    * ###### 向下兼容 Windows 8.1 的版本可见于 [GitHub](https://github.com/File-New-Project/EarTrumpet)，Windows 10 RS2 用户建议从应用商店安装
+  warning: "###### ⚠UWP APPS FOR WINDOWS 8.1/10   针对 Windows 8.1/10 的 UWP 应用\n"
+- name: FileMenu Tools
+  icon:
+  - free
+  - portable
+  i18n:
+  - all
+  homepage: https://lopesoft.com/index.php/en/products
+  download: https://lopesoft.com/index.php/en/download/filemenu-tools
+  description: |
+    右键菜单自定义
+    Customize and add several tools to the context menu of Windows File Explorer.
+- name: GeekUninstaller
+  icon:
+  - free
+  - portable
+  i18n:
+  - all
+  homepage: https://www.geekuninstaller.com/
+  download: https://www.geekuninstaller.com/download
+  description: |
+    清理卸载残留
+    A portable solution for complete uninstallation.
+- name: Iobit Uninstaller
+  icon:
+  - free
+  i18n:
+  - all
+  homepage: http://www.iobit.com/en/advanceduninstaller.php#
+  download: http://download.cnet.com/IObit-Uninstaller/3001-2096_4-75161625.html?hasJs=n&part=dl-
+  description: |
+    不留残余地彻底卸载已安装软件
+    Completely remove your installed programs without leftovers.
+- name: MediaInfo
+  icon:
+  - free
+  - portable
+  i18n:
+  - all
+  homepage: https://mediaarea.net/en/MediaInfo
+  download: https://mediaarea.net/en/MediaInfo/Download/Windows
+  description: |
+    方便地查看视频音频文件的技术数据与元数据标签
+    A convenient unified display of the most relevant technical and tag data for video and audio files.
+- name: memreduct
+  icon:
+  - free
+  - portable
+  open_source:
+    license: GPL 3.0
+    host: GitHub
+    url: https://github.com/henrypp/memreduct
+  i18n:
+  - en_US
+  homepage: http://www.henrypp.org/product/memreduct
+  download: https://github.com/henrypp/memreduct/releases/latest
+  description: |
+    监控优化系统内存
+    Monitor and clean system memory on your computer.
+- name: Process Explorer
+  homepage: https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx
+  icon:
+  - free
+  - portable
+  i18n:
+  - en_US
+  description: |
+    增强型任务管理器，允许终结一些系统的关键进程
+    Enhanced task manager which allows you to terminate some critical processes.
+- name: Process Hacker
+  icon:
+  - free
+  - portable
+  open_source:
+    license: GPL 3.0
+    host: GitHub
+    url: https://github.com/processhacker2/processhacker2
+  i18n:
+  - en_US
+  homepage: https://wj32.org/processhacker/index.php
+  download: https://wj32.org/processhacker/downloads.php
+  description: |
+    多功能进程管理工具
+    Multi-purpose tool that helps you monitor system resources, debug software and detect malware.
+- name: Process Lasso
+  homepage: https://bitsum.com/
+  icon:
+  - free
+  i18n:
+  - all
+  description: |
+    自动实时调节优化系统内所有进程优先级以防止一些设备的卡死
+    Adjust processes priority to prevent CPU unresponsing on some devices
+- name: QTTabBar
+  homepage: http://qttabbar.wikidot.com/
+  icon:
+  - free
+  - portable
+  open_source:
+    license: NO LICENSE
+    host: HOMEPAGE
+    url: http://qttabbar.wikidot.com/
+  i18n:
+  - all
+  description: |
+    一站式 Explorer 增强工具
+    Significantly improve Explorer efficiency
+  warning: "###### ⚠NO UPDATE FOR LONG BUT NO BUGS FOUND YET   长期无更新但未发现明显的bug\n"
+- name: Rapid Environment Editor
+  icon:
+  - free
+  - portable
+  i18n:
+  - all
+  homepage: https://www.rapidee.com/en/about
+  download: https://www.rapidee.com/en/download
+  description: |
+    编辑系统环境变量信息
+    An environment variables editor
+- name: Seer
+  icon:
+  - free
+  i18n:
+  - all
+  homepage: http://1218.io/
+  download: http://sourceforge.net/projects/ccseer/
+  description: |
+    Windows文件预览，类似于Mac OS但是更强大，可定制度更高
+    A Windows quick look tool acting just like the one in macOS but more powerful, customizable and faster.
+- name: Startup Delayer
+  icon:
+  - free
+  i18n:
+  - all
+  homepage: http://www.r2.com.au/page/products/show/startup-delayer/
+  download: http://www.r2.com.au/page/products/download/startup-delayer/
+  description: |
+    根据 CPU 与磁盘运行情况在登录到系统时延时第三方程序的自启过程
+    Optimize your startup process by delaying applications from starting up as soon as you log into your computer based on your CPU/disk status
+- name: Winaero Tweaker
+  icon:
+  - free
+  - portable
+  i18n:
+  - en_US
+  homepage: http://winaero.com/comment.php?comment.news.1836
+  download: http://winaero.com/request.php?1796
+  description: |
+    调整各种 Windows 外观与行为特性
+    Adjust Windows appearance and behaviors.
+- name: WinDirStat
+  icon:
+  - free
+  i18n:
+  - all
+  homepage: https://windirstat.net/
+  download: https://www.fosshub.com/WinDirStat.html
+  description: |
+    磁盘占用统计
+    A disk usage statistics viewer and cleanup.
+- name: Windows 10 Codecs
+  icon:
+  - free
+  i18n:
+  - en_US
+  homepage: http://shark007.net/
+  download: http://shark007.net/forum/Thread-Setup-and-usage
+  description: |
+    显著增强 Windows Media Player
+    Enhanced your WMP significantly.

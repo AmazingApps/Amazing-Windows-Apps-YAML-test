@@ -1,0 +1,54 @@
+---
+- name: PartitionGuru｜Eassos Recovery
+  homepage: http://www.eassos.com/
+  icon:
+  - free
+  i18n:
+  - all
+  description: |
+    可恢复磁盘分区的数据恢复工具
+    Data recovery with partition recovery
+    * 该应用在国内称为 [DiskGenius](http://www.diskgenius.cn/download.php)
+    * This app is called [DiskGenius](http://www.diskgenius.cn/download.php) in China
+- name: Ontrach EasyRecovery
+  homepage: http://www.krollontrack.com/data-recovery/recovery-software/
+  icon: []
+  i18n:
+  - all
+  description: |
+    大批量数据恢复
+    Has filtering tools to help sort the large amount of data the software can recover.
+- name: Recuva
+  icon:
+  - free
+  i18n:
+  - all
+  homepage: https://www.piriform.com/recuva
+  download: https://www.piriform.com/recuva/download
+  description: |
+    简单快速文件恢复
+    Recover your deleted files quickly and easily.
+- name: Stellar Phoenix Windows Data Recovery
+  homepage: http://www.stellarinfo.com/windows-data-recovery.php
+  icon:
+  - free
+  i18n:
+  - all
+  description: |
+    通过网络远程恢复数据
+    Remote recovery option to recover data from another computer over a network.
+- name: TestDisk
+  icon:
+  - free
+  - portable
+  open_source:
+    license: GPL v2+
+    host: cgsecurity.org
+    url: http://www.cgsecurity.org/wiki/TestDisk_Download
+  i18n:
+  - all
+  homepage: http://www.cgsecurity.org/wiki/TestDisk
+  download: http://www.cgsecurity.org/wiki/TestDisk_Download
+  description: |
+    恢复磁盘分区，即使磁盘无法启动
+    Powerful free data recovery software primarily designed to help recover lost partitions and/or make non-booting disks bootable again.

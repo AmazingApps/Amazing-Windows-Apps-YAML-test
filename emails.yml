@@ -1,0 +1,33 @@
+---
+- name: MailBird
+  homepage: https://www.mailbird.com/
+  icon:
+  - free
+  i18n:
+  - all
+  description: |
+    IMAP POP3 邮件客户端，高度可定制且触控支持良好
+    IMAP and POP3 email client, featuring customization, complete touch support and multiple language support.
+- name: Nylas N1
+  homepage: https://www.nylas.com/download/
+  icon:
+  - free
+  i18n:
+  - all
+  description: |
+    基于现代 Web 构架的可扩展的桌面邮件应用
+    An extensible desktop mail app built on the modern web.
+- name: Thunderbird 雷鸟
+  icon:
+  - free
+  open_source:
+    license: MPL
+    host: mozilla.org
+    url: https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Source_Code/Getting_comm-central
+  i18n:
+  - all
+  homepage: https://www.mozilla.org/en-US/thunderbird/
+  download: https://www.mozilla.org/en-US/thunderbird/all/
+  description: |
+    精巧设计的邮件客户端
+    Email client with minimalistic design.

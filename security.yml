@@ -1,0 +1,244 @@
+---
+- name: Acrylic DNS Proxy
+  homepage: http://mayakron.altervista.org/wikibase/show.php?id=AcrylicHome
+  icon:
+  - free
+  - portable
+  open_source:
+    license: GPL 2.0
+    host: SourceForge
+    url: https://sourceforge.net/projects/acrylic/
+  i18n:
+  - zh_CN
+  - en_US
+  description: |
+    本地 DNS 代理，缓存 DNS 服务器回应并通过设置 hosts 文件防止恶意广告
+    A local DNS proxy which caches the responses coming from your DNS servers and helps you fight unwanted ads through a custom HOSTS file.
+    * See Chinese re-build version [here](https://github.com/miaomiaosoft/Acrylic-DNS-Proxy-GUI)   [中文编译版页面](https://github.com/miaomiaosoft/Acrylic-DNS-Proxy-GUI)
+- name: AdwCleaner
+  homepage: https://toolslib.net/downloads/viewdownload/1-adwcleaner/
+  icon:
+  - free
+  - portable
+  i18n:
+  - all
+  description: |
+    免费清理工具，针对广告软件、PUP/LPI、恶意工具栏跟劫持软件
+    Free removal tool for adware, PUP/LPI, Toolbars and Hijacker.
+- name: BitDefender
+  homepage: https://www.bitdefender.com/solutions/free.html
+  icon:
+  - free
+  i18n:
+  - en_US
+  description: |
+    正合适的防病毒保护
+    Outright protection against malware.
+- name: CCleaner
+  icon:
+  - free
+  - cross_platform
+  i18n:
+  - all
+  homepage: https://www.piriform.com/CCLEANER
+  download: https://www.piriform.com/ccleaner/download/standard
+  description: |
+    轻量 PC 优化工具，屡获殊荣
+    A light-weighted & award-winning PC optimization tool.
+- name: Comodo Firewall
+  homepage: https://personalfirewall.comodo.com/
+  icon:
+  - free
+  i18n:
+  - all
+  description: |
+    个人防火墙与HIPS防护
+    Personal Firewall & HIPS protection
+- name: Cryptomator
+  icon:
+  - free
+  - cross_platform
+  open_source:
+    license: MIT X Consortium & Others
+    host: GitHub
+    url: https://github.com/cryptomator/cryptomator
+  i18n:
+  - all
+  homepage: https://cryptomator.org/
+  download: https://cryptomator.org/downloads/#allVersions
+  description: |
+    加密你的云端文件
+    Free client-side encryption for your cloud files
+- name: Encrypto
+  homepage: http://macpaw.com/encrypto
+  icon:
+  - free
+  i18n:
+  - en_US
+  description: |
+    优雅地加密文件
+    Encrypt your files in an elegant way.
+- name: GlassWire
+  homepage: https://www.glasswire.com/
+  icon:
+  - free
+  - cross_platform
+  i18n:
+  - all
+  description: |
+    网络通信活动监视并可视化显示
+    Network security monitoring tool and analyzer that visualizes your network activity.
+- name: Huorong Security
+  homepage: http://www.huorong.cn/
+  icon:
+  - free
+  i18n:
+  - zh_CN
+  description: |
+    病毒防护软件，PUA 防护表现惊艳
+    A malware fighter performing amazingly on PUA protection.
+  warning: "###### ⚠Homepage lockup allowed to be canceled by preferences itself   可通过自身设置取消的主页绑定\n"
+- name: Kaspersky Free
+  homepage: https://www.kaspersky.com.cn/downloads#tools
+  icon:
+  - free
+  i18n:
+  - zh_CN
+  - ru_RU
+  description: |
+    卡巴斯基防病毒免费版，俄语国家与中国可用
+    Free edition of Kaspersky antivirus, available in China and Russian speaking countires.
+- name: KeePass
+  icon:
+  - free
+  - portable
+  - cross_platform
+  open_source:
+    license: GPL 2.0+
+    host: SourceForge
+    url: https://sourceforge.net/projects/keepass/
+  i18n:
+  - all
+  homepage: http://keepass.info/
+  download: http://keepass.info/download.html
+  description: |
+    开源密码管理器
+    Open source password manager.
+- name: LastPass
+  icon:
+  - free
+  - cross_platform
+  i18n:
+  - all
+  homepage: https://www.lastpass.com/
+  download: https://lastpass.com/misc_download2.php?tab=windows
+  description: |
+    强大的全能密码生成管理器，具有免费跨平台云同步
+    Powerful all-in-one password manager and keeper with free cloud sync across all platform.
+- name: NetLimiter
+  icon:
+  - free
+  i18n:
+  - en_US
+  homepage: https://www.netlimiter.com/
+  download: https://www.netlimiter.com/download
+  description: |
+    网络通信控制与监视工具
+    Internet traffic control and monitoring tool
+- name: Pcap\_DNSProxy
+  homepage: https://github.com/chengr28/Pcap_DNSProxy
+  icon:
+  - free
+  - cross_platform
+  open_source:
+    license: GPL 2.0
+    host: GitHub
+    url: https://github.com/chengr28/Pcap_DNSProxy
+  i18n:
+  - en_US
+  description: |
+    基于 WinPcap/LibPcap 用于过滤 DNS 投毒污染的工具，支持多服务器并行请求能以提高在恶劣网络环境下域名解析的可靠性
+    A local DNS server based on WinPcap and LibPcap to prevent DNS pollution & to improve DNS query reliability by multi-server requesting
+- name: RevokeChinaCerts
+  homepage: https://github.com/chengr28/RevokeChinaCerts
+  icon:
+  - free
+  - portable
+  - cross_platform
+  - cli
+  open_source:
+    license: GPL 2.0 for Windows
+    host: GitHub
+    url: https://github.com/chengr28/RevokeChinaCerts
+  i18n:
+  - en_US
+  description: |
+    吊销中国网络安全中心签发的SSL证书（属非法证书）
+    As its name: revoke China SSL certificates \(illegal\).
+- name: Sandboxie
+  homepage: http://www.sandboxie.com/
+  icon:
+  - free
+  i18n:
+  - all
+  description: |
+    基于沙盒的隔离软件
+    A sandbox-based isolation program.
+- name: Shadowsocks 影梭
+  icon:
+  - free
+  - portable
+  - cross_platform
+  open_source:
+    license: APL 2.0/GPL 3.0/LGPL 3.0
+    host: GitHub
+    url: https://github.com/shadowsocks
+  i18n:
+  - all
+  homepage: https://shadowsocks.org/en/index.html
+  download: https://shadowsocks.org/en/download/clients.html
+  description: |
+    Socks5 代理工具
+    Sock5 proxy
+- name: ShadowsocksR
+  homepage: https://breakwa11.github.io/
+  icon:
+  - free
+  - portable
+  - cross_platform
+  open_source:
+    license: GPL 3.0
+    host: GitHub
+    url: https://github.com/shadowsocksr
+  i18n:
+  - all
+  description: |
+    A main fork based on Shadowsocks
+    基于 Shadowsocks 的主要分支之一
+- name: Simple DNSCrypt
+  homepage: https://simplednscrypt.org/
+  icon:
+  - free
+  open_source:
+    license: MIT
+    host: GitHub
+    url: https://github.com/bitbeans/SimpleDnsCrypt
+  i18n:
+  - all
+  description: |
+    简单的 DNSCrypt 管理工具，可用于预防 DNS 污染
+    A simple management tool to configure [dnscrypt-proxy](https://dnscrypt.org/) to prevent DNS spoofing.
+- name: "**XX-Net**"
+  homepage: https://github.com/XX-net/XX-Net
+  icon:
+  - free
+  - portable
+  open_source:
+    license: NO LICENSE
+    host: GitHub
+    url: https://github.com/XX-net/XX-Net
+  i18n:
+  - all
+  description: |
+    网络代理工具
+    A web proxy tool.

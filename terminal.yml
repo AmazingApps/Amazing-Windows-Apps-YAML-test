@@ -1,0 +1,111 @@
+---
+- name: Bitvise SSH
+  icon:
+  - free
+  i18n:
+  - en_US
+  homepage: https://www.bitvise.com/index
+  download: https://www.bitvise.com/download-area
+  description: |
+    SSH 客户端
+    SSH Client for Windows includes state of the art terminal emulation, graphical as well as command-line SFTP support, an FTP-to-SFTP bridge and powerful tunneling.
+- name: I'm Only Resting
+  homepage: http://www.swensensoftware.com/im-only-resting
+  icon:
+  - free
+  - portable
+  i18n:
+  - en_US
+  description: |
+    特效丰富的基于 WinForms 的 HTTP 客户端
+    A feature-rich WinForms-based HTTP client.
+- name: Insomnia
+  icon:
+  - free
+  i18n:
+  - en_US
+  homepage: https://insomnia.rest/
+  download: https://insomnia.rest/download/#windows
+  description: |
+    现代化的 REST 客户端
+    A modern REST client with an beautiful interface. thout transparency for more efficient files.
+- name: Kitty
+  homepage: http://www.9bis.net/kitty/
+  icon:
+  - free
+  - portable
+  i18n:
+  - en_US
+  description: |
+    高级 Putty
+    Advanced Putty \(SSH and telnet client\).
+- name: MobaXterm
+  icon:
+  - free
+  i18n:
+  - all
+  homepage: http://mobaxterm.mobatek.net/
+  download: http://mobaxterm.mobatek.net/download-home-edition.html
+  description: |
+    具备 Xserver 并标签化的 SSH 客户端
+    Xserver and tabbed SSH client.
+- name: mRemoteNG
+  icon:
+  - free
+  - portable
+  open_source:
+    license: GPL 2.0
+    host: GitHub
+    url: https://github.com/mRemoteNG/mRemoteNG
+  i18n:
+  - all
+  homepage: https://mremoteng.org/
+  download: https://mremoteng.org/download
+  description: |
+    开源、标签化、多协议的远程连接管理器
+    An open source, tabbed, multi-protocol, remote connections manager.
+- name: MTPuTTY
+  icon:
+  - free
+  - portable
+  i18n:
+  - en_US
+  homepage: http://ttyplus.com/multi-tabbed-putty/
+  download: http://ttyplus.com/downloads.html
+  description: |
+    标签化的 PuTTY
+    Multi-Tabbed PuTTY.
+- name: Putty
+  homepage: http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+  icon:
+  - free
+  i18n:
+  - en_US
+  description: |
+    SSH 与 telnet 客户端
+    SSH and telnet client.
+- name: WinSCP
+  icon:
+  - free
+  - portable
+  open_source:
+    license: GPL
+    host: winscp.net
+    url: https://winscp.net/eng/download.php
+  i18n:
+  - all
+  homepage: https://winscp.net/eng/index.php
+  download: https://winscp.net/eng/download.php
+  description: |
+    An open source free SFTP/FTP/WebDAV/SCP client
+    免费开源的 SFTP/FTP/WebDAV/SCP 客户端
+- name: Xshell
+  icon:
+  - free
+  i18n:
+  - all
+  homepage: http://www.netsarang.com/products/xsh_overview.html
+  download: http://www.netsarang.com/download/down_xsh5.html
+  description: |
+    强大终端工具，支持 SSH SFTP TELNET RLOGIN 与 SERIAL
+    A powerful terminal emulator that supports SSH, SFTP, TELNET, RLOGIN and SERIAL.

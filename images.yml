@@ -1,0 +1,212 @@
+---
+- name: FastStone Image Viewer
+  homepage: http://www.faststone.org/
+  icon:
+  - free
+  i18n:
+  - all
+  description: |
+    图片查看管理并提供基本图像编辑
+    An image viewer and organizer free for personal and educational use with basic image editing tools.
+- name: Gimp
+  icon:
+  - free
+  - cross_platform
+  open_source:
+    license: GPL
+    host: GNOME.org
+    url: https://git.gnome.org/browse/gimp
+  i18n:
+  - all
+  homepage: https://www.gimp.org/
+  download: https://www.gimp.org/downloads/
+  description: |
+    开源图像编辑器
+    Open source image editor.
+- name: Greenshot
+  icon:
+  - free
+  - cross_platform
+  open_source:
+    license: NO LICENSE
+    host: GitHub/BitBucket
+    url: http://getgreenshot.org/downloads/
+  i18n:
+  - all
+  homepage: http://getgreenshot.org/
+  download: http://getgreenshot.org/downloads/
+  description: |
+    免费开源的屏幕捕获与分享
+    A free and open source program that lets you capture your screen with various methods via a single mouse click.
+- name: Honeyview
+  homepage: http://www.bandisoft.com/honeyview/
+  icon:
+  - free
+  i18n:
+  - all
+  description: |
+    超快图片查看，支持多种格式
+    A very fast image viewer supporting various formats.
+- name: IrfanView
+  icon:
+  - free
+  - portable
+  i18n:
+  - all
+  homepage: http://www.irfanview.com/
+  download: http://www.irfanview.com/main_download_engl.htm
+  description: |
+    图像查看编辑管理与转换。也可以播放视频与音频，具备一些图像创作工具
+    Image viewer, editor, organiser and converter. It can also play video and audio files, and has some image creation and painting capabilities.
+- name: ImageMagick
+  icon:
+  - free
+  - portable
+  - cross_platform
+  - cli
+  open_source:
+    license: Apache 2.0
+    host: GitHub/GitLab
+    url: https://www.imagemagick.org/script/index.php
+  i18n:
+  - en_US
+  homepage: https://www.imagemagick.org/script/index.php
+  download: https://www.imagemagick.org/script/download.php
+  description: |
+    具备命令行支持的多功能图像处理工具
+    A multi-functional image processing with command line support.
+- name: Inkscape
+  icon:
+  - free
+  - portable
+  - cross_platform
+  open_source:
+    license: GPL
+    host: inkscape.org
+    url: https://inkscape.org/en/download/source/
+  i18n:
+  - all
+  homepage: https://inkscape.org/en/
+  download: https://inkscape.org/en/download/windows/
+  description: |
+    基于 vector 的图像设计软件
+    Free vector-based graphic design software.
+- name: Ken Burns Slideshow
+  icon:
+  - free
+  i18n:
+  - all
+  description: |
+    像 iMac 一样轮播相册，即时、便携、全屏的 Ken Burns 特效幻灯片展示
+    Cycle your album like the way in iMac: instant, portable, full-screen slideshow application with the Ken Burns effect.
+- name: Krita
+  icon:
+  - free
+  - portable
+  open_source:
+    license: GPL 3.0
+    host: krita.org
+    url: https://krita.org/en/download
+  i18n:
+  - all
+  homepage: https://krita.org/en/
+  download: https://krita.org/en/download/krita-desktop/
+  description: |
+    免费绘画工具集
+    Free drawing software with a bunch of cool features.
+- name: Paint.net
+  icon:
+  - free
+  i18n:
+  - all
+  homepage: https://www.getpaint.net/index.html
+  download: https://www.getpaint.net/download.html
+  description: |
+    免费的图像照片编辑
+    Free image and photo editing.
+- name: PicPick
+  icon:
+  - free
+  - portable
+  i18n:
+  - all
+  homepage: http://ngwin.com/picpick
+  download: http://ngwin.com/picpick/download
+  description: |
+    多功能图像工具，包含截屏、简单图像编辑、取色器、调色板、像素尺、量角器、十字准线、白板等等
+    A full-featured screen capture tool, Intuitive image editor, color picker, color palette, pixel-ruler, protractor, crosshair, whiteboard, etc.
+- name: "**qrcode**"
+  homepage: https://github.com/sylnsfar/qrcode
+  icon:
+  - free
+  - portable
+  open_source:
+    license: GPL 3.0
+    host: GitHub
+    url: https://github.com/sylnsfar/qrcode
+  i18n:
+  - en_US
+  description: |
+    Python编写的艺术二维码生成器
+    Artistic QR Code in Python \(Animated GIF qr code\).
+- name: Riot
+  icon:
+  - free
+  - portable
+  i18n:
+  - en_US
+  homepage: http://luci.criosweb.ro/riot/
+  download: http://luci.criosweb.ro/riot/download/
+  description: |
+    根据多种文件属性压缩图像
+    Compress images either by file size or by many other image attributes.
+- name: ShareX
+  homepage: https://getsharex.com/
+  icon:
+  - free
+  - portable
+  open_source:
+    license: GPL 3.0
+    host: GitHub
+    url: https://github.com/ShareX/ShareX
+  i18n:
+  - all
+  description: |
+    免费开源的屏幕捕获与分享
+    A free and open source program that lets you capture or record any area of your screen and share it with a single press of a key.
+- name: Splashify
+  homepage: https://splashify.net/
+  icon:
+  - free
+  open_source:
+    license: MIT
+    host: GitHub
+    url: https://github.com/gilbitron/Splashify
+  i18n:
+  - en_US
+  description: |
+    桌面壁纸软件
+    Beautiful desktop wallpapers.
+- name: XnConvert
+  homepage: http://www.xnview.com/en/xnconvert/
+  icon:
+  - free
+  - portable
+  - cross_platform
+  i18n:
+  - all
+  description: |
+    免费跨平台图片批量转换工具，内置微调滤镜
+    Powerful and free cross-platform batch image converter with simple adjustment ability
+- name: Xnview
+  icon:
+  - free
+  - portable
+  - cross_platform
+  i18n:
+  - all
+  homepage: http://www.xnview.com/en/
+  download: http://www.xnview.com/en/xnview/#downloads
+  description: |
+    高效的图片查看管理与转格式，格式支持最全
+    An efficient multimedia viewer, organizer and converter with the most formats support.

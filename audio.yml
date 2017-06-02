@@ -1,0 +1,183 @@
+---
+- name: AIMP
+  icon:
+  - free
+  - portable
+  - cross_platform
+  i18n:
+  - all
+  homepage: https://www.aimp.ru/index.php
+  download: https://www.aimp.ru/index.php?do=download
+  description: |
+    轻巧的本地音频播放器，支持多种格式，并具备音频管理功能
+    A light-weighted local audio player that support multiple formats and that helps manage audio files
+- name: Audacity
+  icon:
+  - free
+  - portable
+  - cross_platform
+  open_source:
+    license: GPL 2.0
+    host: Github
+    url: https://github.com/audacity/audacity
+  i18n:
+  - all
+  homepage: http://www.audacityteam.org/
+  download: http://www.audacityteam.org/download/windows/
+  description: |
+    免费开源跨平台的音频记录与编辑软件
+    Free, open source, cross-platform software for recording and editing sounds.
+- name: Autolyrics
+  icon:
+  - free
+  i18n:
+  - zh_CN
+  - en_US
+  homepage: http://www.autolyric.com/
+  download: http://www.autolyric.com/en/download.html
+  description: |
+    支持插入到许多其它音频播放器的歌词下载展示模块，网络数据库量大
+    A lyrics modules that plug into many other multimedia players to download & display lyrics with a large online database.
+- name: Dopamine
+  icon:
+  - free
+  open_source:
+    license: GPL 3.0
+    host: Github
+    url: https://github.com/digimezzo/Dopamine
+  i18n:
+  - all
+  homepage: http://www.digimezzo.com/software/dopamine/
+  download: http://www.digimezzo.com/content/software/dopamine/
+  description: |
+    音频播放器，致力于尽可能简单有效地管理欣赏音频
+    Dopamine is an audio player which tries to make organizing and listening to music as simple and pretty as possible.
+- name: Exact Audio Copy
+  icon:
+  - free
+  i18n:
+  - all
+  homepage: http://exactaudiocopy.de/
+  download: http://www.exactaudiocopy.de/en/index.php/resources/download/
+  description: |
+    从 CD 向 PC 传输文件
+    Transfer files from your CDs to your PC in almost every format.Comes with some pretty niffty features too.
+- name: foobar2000
+  icon:
+  - free
+  - portable
+  - cross_platform
+  i18n:
+  - en_US
+  homepage: http://www.foobar2000.org/
+  download: http://www.foobar2000.org/download
+  description: |
+    免费音频播放器，具备高度定制化能力
+    foobar2000 is a free & open source audio player with highly modular design, breadth of features, and extensive user flexibility in configuration.
+- name: K-Lite Codecs
+  homepage: http://www.codecguide.com/download_kl.htm
+  icon:
+  - free
+  i18n:
+  - en_US
+  description: |
+    DirectShow 过滤器集合并带有 VFW/ACM 解码器及相关工具
+    Collection of DirectShow filters, VFW/ACM codecs, and tools.
+- name: listen1
+  homepage: https://listen1.github.io/listen1
+  icon:
+  - free
+  open_source:
+    license: MIT
+    host: Github
+    url: https://github.com/listen1/listen1_desktop
+  i18n:
+  - zh_CN
+  - en_US
+  description: |
+    一站式免费音乐集合
+    One for all free music in china \(Windows, Mac, Linux desktop\).
+- name: Mcool
+  homepage: http://mcool.appinn.me/
+  icon:
+  - free
+  - portable
+  - cross_platform
+  open_source:
+    license: GPL
+    host: sourceforge
+    url: https://sourceforge.net/projects/mcool/
+  i18n:
+  - zh_CN
+  description: |
+    支持 GIF 背景的极简音频播放器
+    An extremely brief audio player that supports GIF background
+- name: Mixxx
+  icon:
+  - free
+  open_source:
+    license: Mixxx 2.1
+    host: Github
+    url: https://github.com/mixxxdj/mixxx
+  i18n:
+  - all
+  homepage: https://mixxx.org/
+  download: http://mixxx.org/download/
+  description: |
+    免费 DJ 软件，有 live mixes 需要的一切
+    Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor.
+- name: mStream
+  homepage: http://mstream.io/
+  icon:
+  - free
+  - portable
+  - cross_platform
+  open_source:
+    license: GPL 3.0
+    host: Github
+    url: https://github.com/IrosTheBeggar/mStream
+  i18n:
+  - all
+  description: |
+    跨平台播放任意设备的音频流
+    A suite of open source software that lets you sync and stream your music between all your devices
+- name: Musicbee
+  icon:
+  - free
+  - portable
+  i18n:
+  - all
+  homepage: http://getmusicbee.com/
+  download: http://getmusicbee.com/downloads/
+  description: |
+    管理、查找、播放本地音频。类似于 iTunes 但更好
+    Manage, find, and play music files on your computer. Like iTunes but better than iTunes.
+- name: MusicBrainz Picard
+  icon:
+  - free
+  open_source:
+    license: GPL 2.0
+    host: Github
+    url: https://github.com/metabrainz/picard
+  i18n:
+  - all
+  homepage: https://picard.musicbrainz.org/
+  download: https://picard.musicbrainz.org/downloads/
+  description: |
+    跨平台音频标签处理，可在线查询并重写元数据标签
+    Picard is a cross-platform music tagger that looks up and rewrite metadata tags.
+- name: TTKMusicplayer
+  icon:
+  - free
+  open_source:
+    license: GPL 2.0
+    host: Github
+    url: https://github.com/Greedysky/TTKMusicplayer
+  i18n:
+  - zh_CN
+  - en_US
+  homepage: http://download.csdn.net/album/detail/3094
+  download: http://download.csdn.net/album/detail/3094
+  description: |
+    基于 Qt，高仿酷狗
+    TTKMusicPlayer that imitation Kugou music based on Qt.

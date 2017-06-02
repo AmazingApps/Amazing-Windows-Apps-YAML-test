@@ -1,0 +1,161 @@
+---
+- name: Adobe Master Collection Series
+  homepage: https://www.adobe.com/creativecloud.html
+  icon: []
+  i18n:
+  - all
+  description: |
+    无需过多赘述，绝大多数人应当清楚这一系列工具在设计中的强大作用：
+    There isn't too much to introduce this. I belive most of us have known how powerful it can be in designing:
+    Adobe Acrobat DC, Adobe After Effects, Adobe Animate, Adobe Audition, Adobe Bridge, Adobe Captivate, Adobe Character Animator, Adobe Dreamweaver, Adobe Edge Code, Adobe Edge Reflow, Adobe Encore, Adobe Fireworks, Adobe Fuse, Adobe Illustrator, Adobe InCopy, Adobe InDesign, Adobe Lightroom, Adobe Muse, Adobe Photoshop, Adobe Prelude, Adobe Premiere, Adobe Scout, Adobe SpeedGrade
+- name: 'amWiki '
+  homepage: https://github.com/TevinLi/amWiki
+  icon:
+  - free
+  open_source:
+    license: MIT
+    host: GitHub
+    url: https://github.com/TevinLi/amWiki
+  i18n:
+  - en_US
+  description: |
+    基于 JavaScript、依赖于 Atom 编辑器、应用 MarkDown 标记的 wiki 文档系统
+    amWiki is a wiki doc system based on JavaScript, relying on Atom editor and applied with MarkDown tags.
+- name: AutoHotkey
+  homepage: https://www.autohotkey.com/
+  icon:
+  - free
+  - portable
+  open_source:
+    license: GPL 2.0
+    host: GitHub
+    url: https://github.com/Lexikos/AutoHotkey_L
+  i18n:
+  - all
+  description: |
+    开源 Windows 脚本语言，用户可以轻松创建各种脚本完成各种任务
+    Open-source scripting language for Windows that allows users to easily create small to complex scripts for all kinds of tasks.
+- name: AutoIt
+  icon:
+  - free
+  - portable
+  i18n:
+  - en_US
+  homepage: https://www.autoitscript.com/site/autoit/
+  download: https://www.autoitscript.com/site/autoit/downloads/
+  description: |
+    类 BASIC 脚本语言，用于 Windows GUI 的自动化以及编写通用脚本
+    BASIC-like scripting language designed for automating the Windows GUI and general scripting.
+  warning: "###### ⚠NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug\n"
+- name: Cortana
+  icon:
+  - cross_platform
+  i18n:
+  - all
+  description: |
+    微软开发的 Windows 10 内置个人助理
+    Windows 10 built-in personal assistant by Microsoft.
+- name: HelloFont
+  homepage: http://www.hellofont.cn/index.php
+  icon:
+  - free
+  i18n:
+  - zh_CN
+  description: |
+    一站式字体管理、预览、备份与范例展示
+    All-in-one fonts management, preview, backup and examples.
+- name: LibreOffice
+  icon:
+  - free
+  - cross_platform
+  open_source:
+    license: MPL 2.0
+    host: libreoffice.org
+    url: https://www.libreoffice.org/about-us/source-code/
+  i18n:
+  - all
+  homepage: https://www.libreoffice.org/
+  download: https://www.libreoffice.org/download/download/
+  description: |
+    开源 Office 套装
+    Open source office suite.
+- name: Materialette
+  homepage: http://mikeschultz.xyz/materialette/
+  icon:
+  - free
+  - portable
+  open_source:
+    license: MIT
+    host: GitHUb
+    url: https://github.com/mike-schultz/materialette
+  i18n:
+  - all
+  description: |
+    material 设计的调色板
+    A material design color palette.
+- name: Matterwiki
+  homepage: http://matterwiki.com/
+  icon:
+  - free
+  open_source:
+    license: MIT
+    host: GitHub
+    url: https://github.com/Matterwiki/Matterwiki
+  i18n:
+  - all
+  description: |
+    简单优雅的团队 wiki
+    A simple and beautiful wiki for teams.
+- name: Medibang Paint
+  icon:
+  - free
+  - cross_platform
+  i18n:
+  - all
+  homepage: https://medibangpaint.com/en/
+  download: https://medibangpaint.com/en/app-download/
+  description: |
+    可以使用云端功能，免费使用丰富素材，知名字体，多彩笔刷，操作轻便、简洁的动漫绘图软件
+    A lightweight digital painting and comic creation program that comes loaded with brushes, fonts, pre-made backgrounds, and other resources.
+- name: Microsoft Office
+  homepage: http://www.office.com
+  icon:
+  - cross_platform
+  i18n:
+  - all
+  description: |
+    微软开发的生产力套装，包含：
+    Microsoft's own productivity suite:
+    Access, Excel, OneDrive \(for Business\), OneNote, Outlook, PowerPoint, Project, Publisher, Skype \(for Business\), Visio, Word
+- name: XMind
+  icon:
+  - free
+  - portable
+  - cross_platform
+  open_source:
+    license: EPL 1.0/LGPL 3.0
+    host: GitHub
+    url: https://github.com/xmindltd/xmind
+  i18n:
+  - all
+  homepage: http://www.xmind.net/
+  download: http://www.xmind.net/download/win/
+  description: |
+    思维导图工具，带有免费的云端同步
+    A popular mind map tool with free cloud sync.
+- name: Zim Desktop Wiki
+  icon:
+  - free
+  - portable
+  - cross_platform
+  open_source:
+    license: GPL 2.0
+    host: GitHub
+    url: https://github.com/jaap-karssenberg/zim-desktop-wiki/
+  i18n:
+  - all
+  homepage: http://zim-wiki.org/index.html
+  download: http://zim-wiki.org/downloads.html
+  description: |
+    使用本地文件储存的 wiki 式的笔记本
+    A wiki-style notebook that uses local file storage.

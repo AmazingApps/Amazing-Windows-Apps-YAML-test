@@ -1,0 +1,105 @@
+---
+- name: "~~Huoying Video Desktop~~"
+  homepage: http://huoying666.com/
+  icon:
+  - free
+  i18n:
+  - zh_CN
+  description: "~~Use .mp4/.wmv videos as your desktop background with amazingly low
+    CPU usage.~~\n"
+- name: MacType
+  homepage: http://www.mactype.net/
+  icon:
+  - free
+  open_source:
+    license: NO LICENSE
+    host: GitHub
+    url: https://github.com/snowie2000/mactype
+  i18n:
+  - all
+  description: |
+    改进字体渲染效果
+    Enjoy text rendering and the way it should be.
+- name: Rainmeter
+  homepage: https://www.rainmeter.net/
+  icon:
+  - free
+  - portable
+  open_source:
+    license: GPL 2.0
+    host: GitHub
+    url: https://github.com/rainmeter/rainmeter
+  i18n:
+  - all
+  description: |
+    桌面个性化
+    Desktop customization.
+- name: SimpleSndVol
+  icon:
+  - free
+  i18n:
+  - en_US
+  homepage: http://winaero.com/comment.php?comment.news.14
+  download: http://winaero.com/download.php?view.12
+  description: |
+    音量托盘图标的全新体验
+    Simple application what sits in your system tray near the clock and provides some useful and fast ways to control your sound volume and balance.
+- name: StartIsBack
+  homepage: http://startisback.com
+  icon: []
+  i18n:
+  - all
+  description: |
+    开始菜单个性化；还原旧版开始
+    Start Menu customization or bing back what it was.
+- name: TGFont
+  homepage: https://github.com/ysc3839/TGFont
+  icon:
+  - free
+  open_source:
+    license: MIT
+    host: GitHub
+    url: https://github.com/ysc3839/TGFont
+  description: |
+    修改 Telegram Windows 桌面版字体的简单 hook（钩子）
+    Simple hook to change Telegram desktop's font in Windows.
+- name: TranslucentTB
+  homepage: https://github.com/TranslucentTB/TranslucentTB
+  icon:
+  - free
+  - portable
+  open_source:
+    license: GPL 3.0
+    host: GitHub
+    url: https://github.com/TranslucentTB/TranslucentTB
+  i18n:
+  - en_US
+  description: |
+    任务栏透明化
+    Make your Windows task bar transparent.
+- name: upupoo
+  homepage: http://www.upupoo.com/
+  icon:
+  - free
+  i18n:
+  - zh_CN
+  - en_US
+  description: |
+    视频桌面工具，附带在线视频库
+    Set videos as desktop background with online base.
+- name: "**Windows 10 Login Background Changer**"
+  homepage: https://forums.mydigitallife.net/threads/windows-10-login-screen-background-changer-uploaded-to-github.62367/
+  icon:
+  - free
+  - portable
+  open_source:
+    license: GPL 3.0
+    host: GitHub
+    url: https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer
+  i18n:
+  - en_US
+  description: |
+    修改 Windows 10 登录背景
+    Changes the Windows 10 login screen background.
+  warning: "###### ⚠DESIGNED FOR SPECIFIC VERSIONS OF WINDOWS 10 ONLY   仅针对 Windows
+    10 设计\n"
