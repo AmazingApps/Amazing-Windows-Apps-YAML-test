@@ -211,6 +211,20 @@
   description: |
     简单的 DNSCrypt 管理工具，可用于预防 DNS 污染
     A simple management tool to configure [dnscrypt-proxy](https://dnscrypt.org/) to prevent DNS spoofing.
+- name: VeraCrypt
+  homepage: https://www.veracrypt.fr/en/Home.html
+  icon:
+  - free
+  - portable
+  - full_i18n
+  - cross_platform
+  open_source:
+    license: Apache 2.0
+    host: HOMEPAGE
+    url: https://www.veracrypt.fr/code/VeraCrypt/
+  description: |
+    开源、跨平台的磁盘加密软件
+    Open-source & cross-platform disk encryption software.
 - name: "**XX-Net**"
   homepage: https://github.com/XX-net/XX-Net
   icon:
