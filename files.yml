@@ -32,7 +32,7 @@
   description: |
     开源跨平台文件传输工具
     Open source file transfer
-- name: "**Duplicate Cleaner**"
+- name: Duplicate Cleaner
   icon:
   - free
   - full_i18n

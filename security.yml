@@ -224,7 +224,7 @@
   description: |
     开源、跨平台的磁盘加密软件
     Open-source & cross-platform disk encryption software.
-- name: "**XX-Net**"
+- name: XX-Net
   homepage: https://github.com/XX-net/XX-Net
   icon:
   - free

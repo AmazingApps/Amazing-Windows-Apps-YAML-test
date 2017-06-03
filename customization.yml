@@ -83,7 +83,7 @@
     视频桌面工具，附带在线视频库
     Set videos as desktop background with online base.
   china: true
-- name: "**Windows 10 Login Background Changer**"
+- name: Windows 10 Login Background Changer
   homepage: https://forums.mydigitallife.net/threads/windows-10-login-screen-background-changer-uploaded-to-github.62367/
   icon:
   - free
