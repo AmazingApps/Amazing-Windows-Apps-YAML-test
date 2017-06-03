@@ -7,6 +7,7 @@
   description: |
     放置于 Windows 桌面上的日历，用做备忘
     A cool calendar placed on your windows desktop used as a memo.
+  china: true
 - name: Double Commander
   icon:
   - free
@@ -83,6 +84,7 @@
   description: |
     设计独到的搜索工具
     Keep files at your fingertips. An unique search utility.
+  china: true
 - name: Multi Commander
   homepage: http://multicommander.com/
   icon:
@@ -140,6 +142,7 @@
   description: |
     图标式迷你启动器
     A tiny launcher in way of icons.
+  china: true
 - name: Snipaste
   homepage: https://snipaste.com/
   icon:
@@ -149,6 +152,7 @@
   description: |
     简单强大的截图工具并可以将截图贴到桌面，元素检测功能惊艳
     A simple but powerful snipping tool by amazing elements detection, and also allows you to pin the screenshot back onto the screen
+  china: true
 - name: Total Commander
   homepage: https://www.ghisler.com/
   icon:
@@ -156,7 +160,7 @@
   description: |
     Windows 最佳文件管理
     The best file manager for Windows.
-- name: "**WGestures**"
+- name: "WGestures"
   homepage: http://www.yingdev.com/projects/wgestures
   icon:
   - free
@@ -168,7 +172,8 @@
     url: https://github.com/Wox-launcher/Wox
   description: |
     Windows 全局手势
-    Modern mouse gestures for Windows. \(C\#\)
+    Modern mouse gestures for Windows. (C#)
+  china: true
 - name: WindowTabs
   icon:
   - free
@@ -198,6 +203,7 @@
   description: |
     高效启动器
     An effective launcher for Windows.
+  china: true
 - name: ZIKU!
   homepage: http://ziku.olereo.com/
   icon:
@@ -211,3 +217,4 @@
   description: |
     记录简单应用详情的数据库式的启动器
     A database-style launcher that can collect some detailed info
+  china: true

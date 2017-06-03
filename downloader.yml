@@ -21,11 +21,9 @@
   - portable
   - full_i18n
   description: |
-    免费全能下载管理器，支持HTTP\(S\) FTP MMS RTSP协议，也可以使用浏览器扩展检测页面媒体内容
-    Free all-in-one download manager for HTTP\(S\), FTP, MMS and RTSP protocol and also detecting Web media content by browser extension.
-  warning: '️DOWNLOAD ANOTHER HARMLESS APP BY DEFAULT   默认下载其它无害应用
-
-'
+    免费全能下载管理器，支持HTTP(S) FTP MMS RTSP协议，也可以使用浏览器扩展检测页面媒体内容
+    Free all-in-one download manager for HTTP(S), FTP, MMS and RTSP protocol and also detecting Web media content by browser extension.
+  warning: DOWNLOAD ANOTHER HARMLESS APP BY DEFAULT   默认下载其它无害应用
 - name: FDM
   homepage: http://www.freedownloadmanager.org/
   icon:
@@ -50,9 +48,8 @@
   description: |
     针对1024的页面爬虫，可下载种子文件
     A spider aimed to 1024 to download .torrent files
-  warning: '️MINORS SHOULD USE THIS UNDER INSTRUCTIONS 未成年人请在指导下使用
-
-'
+  warning: MINORS SHOULD USE THIS UNDER INSTRUCTIONS 未成年人请在指导下使用
+  china: true
 - name: HTTrack
   homepage: https://www.httrack.com/page/2/en/index.html
   icon:
@@ -69,7 +66,7 @@
   - full_i18n
   description: |
     有效的下载加速器，具备响应错链解决能力
-    Internet Download Manager \(IDM\) is a tool to increase download speeds with comprehensive error recovery and resume capability.
+    Internet Download Manager (IDM) is a tool to increase download speeds with comprehensive error recovery and resume capability.
 - name: Persepolis Download Manager
   homepage: https://persepolisdm.github.io/
   icon:

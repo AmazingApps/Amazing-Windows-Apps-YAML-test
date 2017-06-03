@@ -17,7 +17,8 @@
   description: |
     从 Windows 中发起 traceroute 请求并可视化展示
     Raise up traceroute request from Windows with route visilization display.
-- name: "**Brave**"
+  china: true
+- name: Brave
   homepage: https://www.brave.com/
   icon:
   - free
@@ -76,6 +77,7 @@
   description: |
     一个利用 CloudXNS 的 API 实现自己的 DDNS 服务的 PowerShell 脚本
     A PowerShell script to establish own DDNS service on CloudXNS API
+  china: true
 - name: Firefox 火狐
   icon:
   - free
@@ -108,7 +110,7 @@
   - en_US
   - cross_platform
   description: |
-    * ###### 此处指国际版，请注意与国内版相区别｜Here the international version is listed instead of that provided in mainland China
+    * 此处指国际版，请注意与国内版相区别｜Here the international version is listed instead of Chinese version
     同时内嵌 Trident 与 chromium 的网页浏览器，内置高效密码管理器
     A Web browser that embedded with both Trident & chromium with a smart password manager.
 - name: Opera

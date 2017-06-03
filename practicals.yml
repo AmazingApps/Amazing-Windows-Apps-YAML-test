@@ -8,6 +8,7 @@
   description: |
     跨平台系统剪贴板同步工具
     A cloud sync tool for system clipboard across multiple platforms.
+  china: true
 - name: Defraggler
   icon:
   - free
@@ -47,9 +48,7 @@
   description: |
     屏幕录制并保存为 GIF
     Animated screen captures and save them directly to .GIF
-  warning: 'NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug
-
-'
+  warning: NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug
 - name: MyChrome
   icon:
   - free
@@ -64,6 +63,7 @@
   description: |
     Google Chrome 的便携版引导器
     Navigator for a portable version of Google Chrome
+  china: true
 - name: NirLauncher
   icon:
   - free
@@ -161,16 +161,15 @@
   description: |
     无需使用本身软件就了解软件是否有更新可用
     Just as its name: Software Update Monitor: tell you if updates are available before you need to use your software.
-- name: "~~Touchpad Blocker~~"
+- name: Touchpad Blocker
   icon:
   - free
   - en_US
   description: |
-    ~~打字时防止因触摸板造成的光标跳动~~
-    ~~Software to prevent cursor from jumping when you are typing on notebook keyboard.~~
-  warning: 'NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug
-
-'
+    打字时防止因触摸板造成的光标跳动
+    Software to prevent cursor from jumping when you are typing on notebook keyboard.
+  warning: NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug
+  china: true
 - name: ZoomIt
   homepage: https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx
   icon:
@@ -180,6 +179,4 @@
   description: |
     屏幕局部放大
     Zoom in on an area of the screen, move around while zoomed, and draw on the zoomed image.
-  warning: 'NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug
-
-'
+  warning: NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug

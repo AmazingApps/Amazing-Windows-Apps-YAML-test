@@ -116,6 +116,7 @@
   description: |
     一站式网页前端开发套装
     All-in-one Web front end development suit
+  china: true
 - name: HeidiSQL
   icon:
   - free

@@ -28,7 +28,7 @@
   download: http://www.mirc.com/get.html
   description: |
     网络回路聊天客户端
-    An Internet Relay Chat \(IRC\) client.
+    An Internet Relay Chat (IRC) client.
 - name: Quassel
   icon:
   - free

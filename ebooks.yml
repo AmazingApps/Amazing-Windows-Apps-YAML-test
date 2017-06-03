@@ -21,7 +21,8 @@
   - cross_platform
   description: |
     媲美 Adobe Acrobat 的专业免费 PDF 阅读器
-    One of the preferred Adobe replacements
+    One of the alternatives of Adobe Acrobat
+  china: true
 - name: kobo
   homepage: https://www.kobo.com/desktop
   icon:

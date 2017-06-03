@@ -49,6 +49,7 @@
   description: |
     内置 Markdown 预览与十六进制编辑的文本编辑器
     A text editor with Markdown preview and hex mode
+  china: true
 - name: GitBook Editor
   homepage: https://www.gitbook.com/editor
   icon:
@@ -107,6 +108,7 @@
   description: |
     支持 Markdown 的开源云笔记，也可以搭建个人博客
     A Markdown cloud note taking that allows you to establish personal blog
+  china: true
 - name: Light Table
   homepage: http://lighttable.com/
   icon:

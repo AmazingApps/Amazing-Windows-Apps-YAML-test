@@ -124,7 +124,7 @@
   description: |
     多功能图像工具，包含截屏、简单图像编辑、取色器、调色板、像素尺、量角器、十字准线、白板等等
     A full-featured screen capture tool, Intuitive image editor, color picker, color palette, pixel-ruler, protractor, crosshair, whiteboard, etc.
-- name: "**qrcode**"
+- name: "qrcode"
   homepage: https://github.com/sylnsfar/qrcode
   icon:
   - free
@@ -136,7 +136,8 @@
     url: https://github.com/sylnsfar/qrcode
   description: |
     Python编写的艺术二维码生成器
-    Artistic QR Code in Python \(Animated GIF qr code\).
+    Artistic QR Code in Python (Animated GIF qr code).
+  china: true
 - name: Riot
   icon:
   - free

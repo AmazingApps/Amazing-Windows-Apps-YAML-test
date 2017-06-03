@@ -1,11 +1,12 @@
 ---
-- name: "~~Huoying Video Desktop~~"
+- name: "Huoying Video Desktop"
   homepage: http://huoying666.com/
   icon:
   - free
   - zh_CN
-  description: "~~Use .mp4/.wmv videos as your desktop background with amazingly low
-    CPU usage.~~\n"
+  description: |
+    Use .mp4/.wmv videos as your desktop background with amazingly low CPU usage.
+  strike: true
 - name: MacType
   homepage: http://www.mactype.net/
   icon:
@@ -18,6 +19,7 @@
   description: |
     改进字体渲染效果
     Enjoy text rendering and the way it should be.
+  strike: true
 - name: Rainmeter
   homepage: https://www.rainmeter.net/
   icon:
@@ -80,6 +82,7 @@
   description: |
     视频桌面工具，附带在线视频库
     Set videos as desktop background with online base.
+  china: true
 - name: "**Windows 10 Login Background Changer**"
   homepage: https://forums.mydigitallife.net/threads/windows-10-login-screen-background-changer-uploaded-to-github.62367/
   icon:
@@ -93,6 +96,4 @@
   description: |
     修改 Windows 10 登录背景
     Changes the Windows 10 login screen background.
-  warning: 'DESIGNED FOR SPECIFIC VERSIONS OF WINDOWS 10 ONLY   仅针对 Windows 10 设计
-
-'
+  warning: DESIGNED FOR SPECIFIC VERSIONS OF WINDOWS 10 ONLY   仅针对 Windows 10 设计

@@ -23,9 +23,7 @@
   description: |
     Bomi是一个开源软件，基于MPV播放器开发，为MPV播放器增强了图形化界面。适合对原生MPV配置文件与全快捷键操作头疼的用户
     An open source player based on mpv with GUI enhanced & neat
-  warning: 'NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug
-
-'
+  warning: NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug
 - name: EMDB
   homepage: http://www.emdb.eu/
   icon:
@@ -85,8 +83,8 @@
     host: SourceForge
     url: https://sourceforge.net/projects/mpcbe/
   description: |
-    基于 "Media Player Classic"\(MPC，Gabest\) 及 "Media Player Classic Home Cinema" \(MPC-HC，Casimir666\)，包含一些功能增强及 bug 修复
-    Based on the original "Media Player Classic" project \(Gabest\) and "Media Player Classic Home Cinema" project \(Casimir666\), contains additional features and bug fixes
+    基于 "Media Player Classic"(MPC，Gabest) 及 "Media Player Classic Home Cinema" (MPC-HC，Casimir666)，包含一些功能增强及 bug 修复
+    Based on the original "Media Player Classic" project (Gabest) and "Media Player Classic Home Cinema" project (Casimir666), contains additional features and bug fixes
 - name: mpv
   icon:
   - free
@@ -132,7 +130,7 @@
   description: |
     多媒体播放器，解码器众多，配置能力强
     Multimedia player with a wide collection of codecs which also offers extensive configuration options for users.
-  warning: "[FFmpeg PUBLIC LICENSE VIOLATED   违反 FFmpeg 公共许可证](https://github.com/FFmpeg/web/blob/master/src/shame#L63)\n"
+  warning: FFmpeg PUBLIC LICENSE VIOLATED  违反 FFmpeg 公共许可证 (https://github.com/FFmpeg/web/blob/master/src/shame#L63)
 - name: Shotcut
   icon:
   - free
@@ -186,10 +184,10 @@
     license: GPL 2.0
     host: GitHub
     url: https://github.com/videolan/vlc
-  description: "免费开源多媒体播放器与框架，可播放DVD 音频CD VCD与多种流协议\nFree open source multimedia player
-    and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols.\n
-    \      \n"
-- name: "**zogvm**"
+  description: |
+    免费开源多媒体播放器与框架，可播放 DVD 音频 CD VCD 与多种流协议
+    Free open source multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols.
+- name: zogvm
   homepage: https://github.com/zogvm/zogvm
   icon:
   - free
@@ -199,4 +197,7 @@
     license: NO LICENSE
     host: GitHub
     url: https://github.com/zogvm/zogvm
-  description: "视频引索管理器       \nzogna video manager.\n"
+  description: |
+    视频引索管理器
+    zogna video manager.
+  china: true

@@ -1,15 +1,14 @@
 ---
-- name: "~~160WIFI~~"
+- name: 160WIFI
   homepage: http://wifi.160.com/
   icon:
   - free
   - zh_CN
   description: |
-    ~~虚拟 WiFi 路由软件，整洁免费~~
-    ~~A WiFi virtual router app, neat & free.~~
-  warning: 'SUSPIOUS BEHAVIORS REPORTED  据报告有可疑行为
-
-'
+    虚拟 WiFi 路由软件，整洁免费
+    A WiFi virtual router app, neat & free.
+  warning: SUSPIOUS BEHAVIORS REPORTED  据报告有可疑行为
+  strike: true
 - name: Advanced SystemCare
   icon:
   - free
@@ -19,9 +18,7 @@
   description: |
     一站式系统优化套件
     An all-in-one system optimization unity.
-  warning: 'BUNDLE ANOTHER HARMLESS APP   捆绑另一款无害应用
-
-'
+  warning: 'BUNDLE ANOTHER HARMLESS APP   捆绑另一款无害应用'
 - name: AltDrag
   homepage: https://stefansundin.github.io/altdrag/
   icon:
@@ -35,9 +32,7 @@
   description: |
     按下 Alt 键时，拖动窗口，调整大小，最小化等等
     You are now alllowed to easily drag, resize, minimize, etc. windows when pressing the alt key.
-  warning: 'NO UPDATE FOR LONG BUT NO BUGS FOUND YET   长期无更新但未发现明显的bug
-
-'
+  warning: NO UPDATE FOR LONG BUT NO BUGS FOUND YET   长期无更新但未发现明显的bug
 - name: AOMEI Partition Assistant  分区助手
   icon:
   - free
@@ -49,6 +44,7 @@
   description: |
     无损分区工具，提供简单、易用的磁盘分区管理操作
     Resize, move, extend, merge and split partitions without data loss to maximize disk space use
+  china: true
 - name: AquaSnap
   icon:
   - free
@@ -66,16 +62,15 @@
   description: |
     为不同进程调节不同的网络占用优先级并帮助降低延时
     Modify processes priority on network traffic and help to reduce ping.
-- name: "~~Clover~~"
+- name: Clover
   icon:
   - free
   - full_i18n
   description: |
-    ~~为文件资源浏览器增加多标签特性~~
-    ~~Bring tabs to Windows Explorer~~
-  warning: 'INVASIVE ADS SUSPICION   侵入式广告嫌疑
-
-'
+    为文件资源浏览器增加多标签特性
+    Bring tabs to Windows Explorer
+  strike: true
+  warning: INVASIVE ADS SUSPICION   侵入式广告嫌疑
 - name: Dism++
   homepage: https://www.chuyu.me/
   icon:
@@ -89,6 +84,7 @@
   description: |
     全球首家基于 CBS 的 Dism GUI 实现
     First CBS-based Dism GUI implementation globally.
+  china: true
 - name: Ditto
   homepage: https://sourceforge.net/projects/ditto-cp/
   icon:
@@ -115,9 +111,7 @@
     Adjust volume for all apps individually.
     * ###### Version compatible with Windows 8.1 available on [GitHub](https://github.com/File-New-Project/EarTrumpet). RS 2 users are suggested to install from Windows Store
     * ###### 向下兼容 Windows 8.1 的版本可见于 [GitHub](https://github.com/File-New-Project/EarTrumpet)，Windows 10 RS2 用户建议从应用商店安装
-  warning: 'UWP APPS FOR WINDOWS 8.1/10   针对 Windows 8.1/10 的 UWP 应用
-
-'
+  warning: UWP APPS FOR WINDOWS 8.1/10   针对 Windows 8.1/10 的 UWP 应用
 - name: FileMenu Tools
   icon:
   - free
@@ -215,9 +209,7 @@
   description: |
     一站式 Explorer 增强工具
     Significantly improve Explorer efficiency
-  warning: 'NO UPDATE FOR LONG BUT NO BUGS FOUND YET   长期无更新但未发现明显的bug
-
-'
+  warning: NO UPDATE FOR LONG BUT NO BUGS FOUND YET   长期无更新但未发现明显的bug
 - name: Rapid Environment Editor
   icon:
   - free
@@ -237,6 +229,7 @@
   description: |
     Windows文件预览，类似于Mac OS但是更强大，可定制度更高
     A Windows quick look tool acting just like the one in macOS but more powerful, customizable and faster.
+  china: true
 - name: Startup Delayer
   icon:
   - free

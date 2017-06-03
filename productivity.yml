@@ -7,7 +7,7 @@
     无需过多赘述，绝大多数人应当清楚这一系列工具在设计中的强大作用：
     There isn't too much to introduce this. I belive most of us have known how powerful it can be in designing:
     Adobe Acrobat DC, Adobe After Effects, Adobe Animate, Adobe Audition, Adobe Bridge, Adobe Captivate, Adobe Character Animator, Adobe Dreamweaver, Adobe Edge Code, Adobe Edge Reflow, Adobe Encore, Adobe Fireworks, Adobe Fuse, Adobe Illustrator, Adobe InCopy, Adobe InDesign, Adobe Lightroom, Adobe Muse, Adobe Photoshop, Adobe Prelude, Adobe Premiere, Adobe Scout, Adobe SpeedGrade
-- name: 'amWiki '
+- name: amWiki
   homepage: https://github.com/TevinLi/amWiki
   icon:
   - free
@@ -19,6 +19,7 @@
   description: |
     基于 JavaScript、依赖于 Atom 编辑器、应用 MarkDown 标记的 wiki 文档系统
     amWiki is a wiki doc system based on JavaScript, relying on Atom editor and applied with MarkDown tags.
+  china: true
 - name: AutoHotkey
   homepage: https://www.autohotkey.com/
   icon:
@@ -42,9 +43,7 @@
   description: |
     类 BASIC 脚本语言，用于 Windows GUI 的自动化以及编写通用脚本
     BASIC-like scripting language designed for automating the Windows GUI and general scripting.
-  warning: 'NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug
-
-'
+  warning: NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug
 - name: Cortana
   icon:
   - full_i18n
@@ -60,6 +59,7 @@
   description: |
     一站式字体管理、预览、备份与范例展示
     All-in-one fonts management, preview, backup and examples.
+  china: true
 - name: LibreOffice
   icon:
   - free
@@ -117,7 +117,7 @@
   description: |
     微软开发的生产力套装，包含：
     Microsoft's own productivity suite:
-    Access, Excel, OneDrive \(for Business\), OneNote, Outlook, PowerPoint, Project, Publisher, Skype \(for Business\), Visio, Word
+    Access, Excel, OneDrive (for Business), OneNote, Outlook, PowerPoint, Project, Publisher, Skype (for Business), Visio, Word
 - name: XMind
   icon:
   - free
@@ -133,6 +133,7 @@
   description: |
     思维导图工具，带有免费的云端同步
     A popular mind map tool with free cloud sync.
+  china: true
 - name: Zim Desktop Wiki
   icon:
   - free

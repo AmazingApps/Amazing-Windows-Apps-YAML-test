@@ -34,7 +34,7 @@
   - en_US
   description: |
     高级 Putty
-    Advanced Putty \(SSH and telnet client\).
+    Advanced Putty (SSH and telnet client).
 - name: MobaXterm
   icon:
   - free

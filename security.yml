@@ -88,9 +88,8 @@
   description: |
     病毒防护软件，PUA 防护表现惊艳
     A malware fighter performing amazingly on PUA protection.
-  warning: 'Homepage lockup allowed to be canceled by preferences itself   可通过自身设置取消的主页绑定
-
-'
+  warning: Cancellable homepage lock   设置中可取消的主页绑定
+  china: true
 - name: Kaspersky Free
   homepage: https://www.kaspersky.com.cn/downloads#tools
   icon:
@@ -134,7 +133,7 @@
   description: |
     网络通信控制与监视工具
     Internet traffic control and monitoring tool
-- name: Pcap\_DNSProxy
+- name: Pcap_DNSProxy
   homepage: https://github.com/chengr28/Pcap_DNSProxy
   icon:
   - free
@@ -161,7 +160,7 @@
     url: https://github.com/chengr28/RevokeChinaCerts
   description: |
     吊销中国网络安全中心签发的SSL证书（属非法证书）
-    As its name: revoke China SSL certificates \(illegal\).
+    As its name: revoke China SSL certificates (illegal).
 - name: Sandboxie
   homepage: http://www.sandboxie.com/
   icon:

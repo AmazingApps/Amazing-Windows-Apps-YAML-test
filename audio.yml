@@ -88,7 +88,8 @@
     url: https://github.com/listen1/listen1_desktop
   description: |
     一站式免费音乐集合
-    One for all free music in china \(Windows, Mac, Linux desktop\).
+    One for all free music in china (Windows, Mac, Linux desktop).
+  china: true
 - name: Mcool
   homepage: http://mcool.appinn.me/
   icon:
@@ -103,6 +104,7 @@
   description: |
     支持 GIF 背景的极简音频播放器
     An extremely brief audio player that supports GIF background
+  china: true
 - name: Mixxx
   icon:
   - free
@@ -167,3 +169,4 @@
   description: |
     基于 Qt，高仿酷狗
     TTKMusicPlayer that imitation Kugou music based on Qt.
+  china: true

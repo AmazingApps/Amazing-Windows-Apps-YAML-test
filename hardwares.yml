@@ -46,9 +46,7 @@
   description: |
     驱动管理更新工具
     Identify & fix outdated, missing & incorrect PC drivers
-  warning: 'INCORRECT DRIVERS REPORTED   有用户报告安装不正确驱动
-
-'
+  warning: INCORRECT DRIVERS REPORTED   有用户报告安装不正确驱动
 - name: Open Hardware Monitor
   icon:
   - free
@@ -81,11 +79,12 @@
   description: |
     显示固态硬盘及其它硬盘的关联信息
     An information tool for Solid State Drives and other disk devices.
-- name: "~~护眼宝~~"
+- name: "护眼宝"
   icon:
   - free
   - zh_CN
   - cross_platform
   description: |
-    ~~为屏幕添加蓝光过滤滤镜~~
-    ~~Filter blue rays from your screen.~~
+    为屏幕添加蓝光过滤滤镜
+    Filter blue rays from your screen.
+  china: true

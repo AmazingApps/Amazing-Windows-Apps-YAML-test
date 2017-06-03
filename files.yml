@@ -64,9 +64,8 @@
   description: |
     进阶文件重命名工具，带有重命名需要的一切能力
     Advanced renaming tools with everything you need for renaming
-  warning: 'NO UPDATE FOR LONG BUT NO BUGS FOUND YET   长期无更新但未发现明显的bug
-
-'
+  warning: NO UPDATE FOR LONG BUT NO BUGS FOUND YET   长期无更新但未发现明显的bug
+  china: true
 - name: FileZilla
   icon:
   - free
@@ -95,9 +94,7 @@
   description: |
     简单的文件（夹）备份工具，支持镜像、双向、更新等方式
     An easy backup solution for files and folders, It supports mirroring/two way sync/update between source and destination.
-  warning: '️DOWNLOAD ANOTHER HARMLESS APP AS DEFAULT   默认下载其它无害应用
-
-'
+  warning: DOWNLOAD ANOTHER HARMLESS APP AS DEFAULT   默认下载其它无害应用
 - name: Hasher
   homepage: http://www.den4b.com/products/hasher
   icon:
@@ -158,7 +155,7 @@
   - en_US
   description: |
     获取Windows可执行文件（EXE DLL SCR MUI等）中的资源文件
-    Complete resource editing tool for any type of Windows executable \(\*.exe; \*.dll; \*.scr; \*.mui etc\).
+    Complete resource editing tool for any type of Windows executable (*.exe; *.dll; *.scr; *.mui etc).
 - name: rimraf
   homepage: https://www.npmjs.com/package/rimraf
   icon:
@@ -180,6 +177,7 @@
   description: |
     跨平台文件传输
     Cross-platform files transfer.
+  china: true
 - name: SpaceSniffer
   icon:
   - free
